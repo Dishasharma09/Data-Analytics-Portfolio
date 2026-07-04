@@ -1,0 +1,1201 @@
+Year,Day,Amount_Lost_INR,Incident_Type,City,Category,Loss_Category,Loss_Percentage,Risk_Level
+2022,22,86530.0,Data Breach,Bangalore,Corporate,Low,0.031143108312480714,Low
+2023,21,231983.0,Phishing,Kolkata,Educational,Medium,0.08349325893510012,Medium
+2021,6,284707.0,Data Breach,Bangalore,E-commerce,High,0.1024692122769149,High
+2023,6,433557.0,Phishing,Ahmedabad,Health,Critical,0.15604198093879812,Critical
+2023,23,378816.0,Phishing,Jaipur,Government,High,0.13634008688894828,High
+2020,16,399992.0,Phishing,Mumbai,Corporate,High,0.1439615645455424,High
+2021,4,430660.0,Online Fraud,Kolkata,Financial,Critical,0.15499931845432735,Critical
+2021,11,463132.0,Ransomware,Ahmedabad,Health,Critical,0.16668635200480547,Critical
+2021,24,402927.0,Data Breach,Pune,Government,Critical,0.14501790365217748,Critical
+2023,23,206390.0,Identity Theft,Pune,Government,Medium,0.0742820539074644,Medium
+2022,9,346114.0,Phishing,Pune,Corporate,High,0.12457027378326532,High
+2021,23,244373.0,Online Fraud,Jaipur,Government,Medium,0.08795255758287125,Medium
+2024,3,348697.0,Online Fraud,Bangalore,Corporate,High,0.1254999241793261,High
+2023,19,162779.0,Online Fraud,Mumbai,E-commerce,Medium,0.058585970507307274,Medium
+2020,8,171182.0,Data Breach,Pune,Personal,Medium,0.06161030356115883,Medium
+2022,5,193860.0,Ransomware,Lucknow,Health,Medium,0.06977236770435122,Medium
+2024,4,83879.0,Data Breach,Kolkata,Educational,Low,0.0301889839609681,Low
+2024,24,433043.0,Identity Theft,Delhi,Personal,Critical,0.1558569866284709,Critical
+2020,6,239260.0,Ransomware,Lucknow,Health,Medium,0.08611233207955779,Medium
+2022,2,399871.0,Malware,Mumbai,Corporate,High,0.1439180153012825,High
+2023,20,308003.0,Cyber Bullying,Jaipur,Health,High,0.11085370148583149,High
+2019,28,447841.0,Online Fraud,Mumbai,E-commerce,Critical,0.1611829512281252,Critical
+2022,11,315242.0,Data Breach,Delhi,Corporate,High,0.11345909800812488,High
+2020,4,147323.0,Malware,Kolkata,Personal,Medium,0.05302318439754532,Medium
+2024,15,123413.0,Hacking,Delhi,Financial,Medium,0.04441770976734292,Medium
+2023,6,263670.0,Data Breach,Hyderabad,Financial,High,0.09489776226455322,High
+2022,22,331904.0,Phishing,Kolkata,Social Media,High,0.11945593691604761,High
+2019,17,48837.0,Cyber Bullying,Mumbai,Social Media,Low,0.017576978858853815,Low
+2019,24,261550.0,Phishing,Pune,Health,High,0.09413475071223079,High
+2021,6,274680.0,Ransomware,Mumbai,Financial,High,0.0988603835810956,High
+2021,19,29541.0,Cyber Bullying,Mumbai,Corporate,Low,0.010632134088281437,Low
+2020,25,80083.0,Data Breach,Kolkata,Government,Low,0.028822761388979462,Low
+2022,2,445243.0,Identity Theft,Hyderabad,Corporate,Critical,0.16024790216542067,Critical
+2022,15,35531.0,Malware,Mumbai,Government,Low,0.012788001634701862,Low
+2024,11,271856.0,Identity Theft,Lucknow,Personal,High,0.0978439946076246,High
+2024,8,367245.0,Data Breach,Ahmedabad,Educational,High,0.13217555543992812,High
+2024,26,328599.0,Ransomware,Chennai,Government,High,0.11826643069886571,High
+2021,19,75744.0,Phishing,Chennai,Financial,Low,0.027261107084485606,Low
+2022,13,253859.0,Cyber Bullying,Mumbai,Corporate,High,0.09136667436840451,High
+2022,12,130749.0,Identity Theft,Lucknow,Personal,Medium,0.04705801766726616,Medium
+2019,5,268253.0,Data Breach,Pune,Financial,High,0.09654723487978607,High
+2021,6,312412.0,Identity Theft,Jaipur,Personal,High,0.11244054956799636,High
+2023,26,232809.0,Data Breach,Jaipur,Educational,Medium,0.0837905455116182,Medium
+2021,22,317759.0,Phishing,Kolkata,E-commerce,High,0.11436499427095297,High
+2023,4,83503.0,Cyber Bullying,Chennai,Corporate,Low,0.030053657383763747,Low
+2019,19,255346.0,Malware,Mumbai,Health,High,0.09190186218835895,High
+2020,20,423975.0,Phishing,Jaipur,Corporate,Critical,0.1525933126867446,Critical
+2022,1,86708.0,Identity Theft,Mumbai,Social Media,Low,0.03120717248998703,Low
+2019,20,192184.0,Malware,Kolkata,Educational,Medium,0.06916915668468501,Medium
+2022,17,103471.0,Data Breach,Chennai,Corporate,Medium,0.03724036241997795,Medium
+2024,12,255225.0,Malware,Delhi,Social Media,High,0.09185831294409905,High
+2020,15,158661.0,Data Breach,Ahmedabad,Health,Medium,0.05710385655803193,Medium
+2020,1,162087.0,Phishing,Ahmedabad,Government,Medium,0.05833691201947372,Medium
+2019,26,161081.0,Identity Theft,Jaipur,Personal,Medium,0.05797484144323016,Medium
+2020,14,346453.0,Ransomware,Ahmedabad,Health,High,0.12469228364941501,High
+2023,6,389590.0,Identity Theft,Delhi,Financial,High,0.14021776918362835,High
+2020,5,194118.0,Data Breach,Mumbai,Educational,Medium,0.06986522477062442,Medium
+2022,11,369805.0,Online Fraud,Kolkata,Government,High,0.1330969278804684,High
+2022,4,158215.0,Cyber Bullying,Delhi,Financial,Medium,0.056943336203156544,Medium
+2022,13,7154.0,Hacking,Kolkata,Financial,Low,0.002574804077978586,Low
+2022,11,153876.0,Ransomware,Kolkata,Educational,Medium,0.05538168189866268,Medium
+2023,3,435904.0,Malware,Chennai,Government,Critical,0.15688669231299657,Critical
+2021,1,65288.0,Ransomware,Mumbai,E-commerce,Low,0.023497876522653886,Low
+2024,6,52195.0,Cyber Bullying,Lucknow,Financial,Low,0.018785560364843763,Low
+2019,18,283725.0,Malware,Ahmedabad,Financial,High,0.1021157795673014,High
+2022,24,446864.0,Cyber Bullying,Lucknow,Government,Critical,0.16083131807405965,Critical
+2020,10,293231.0,Malware,Chennai,Corporate,High,0.10553709457502639,High
+2022,5,182002.0,Ransomware,Kolkata,Financial,Medium,0.06550454176687986,Medium
+2020,23,165053.0,Malware,Jaipur,Personal,Medium,0.059404408370505944,Medium
+2024,10,70298.0,Malware,Ahmedabad,Government,Low,0.02530103118167999,Low
+2024,12,309311.0,Online Fraud,Ahmedabad,Financial,High,0.11132446521717003,High
+2024,2,207376.0,Identity Theft,Mumbai,Educational,Medium,0.07463692626151625,Medium
+2020,13,437624.0,Identity Theft,Hyderabad,Health,Critical,0.15750573942148455,Critical
+2022,8,40499.0,Hacking,Bangalore,Personal,Low,0.014576040027125349,Low
+2024,2,388960.0,Hacking,Bangalore,Social Media,High,0.13999102518458914,High
+2023,20,446485.0,Data Breach,Bangalore,Social Media,Critical,0.16069491176352654,Critical
+2020,1,170631.0,Data Breach,Hyderabad,Health,Medium,0.061411992539776916,Medium
+2020,5,246198.0,Data Breach,Mumbai,Social Media,Medium,0.08860939535786579,Medium
+2022,9,468535.0,Online Fraud,Hyderabad,Health,Critical,0.1686309517298989,Critical
+2020,17,243997.0,Hacking,Bangalore,Financial,Medium,0.08781723100566691,Medium
+2020,9,489533.0,Cyber Bullying,Chennai,Personal,Critical,0.17618836520898673,Critical
+2024,11,97347.0,Data Breach,Delhi,Personal,Low,0.035036266784872996,Low
+2022,15,311931.0,Data Breach,Kolkata,Corporate,High,0.11226743232428547,High
+2024,24,298632.0,Ransomware,Hyderabad,Health,High,0.10748097447790061,High
+2024,6,337585.0,Phishing,Mumbai,Personal,High,0.12150059192960594,High
+2022,23,206735.0,Cyber Bullying,Mumbai,Corporate,Medium,0.07440622324027159,Medium
+2019,3,23431.0,Data Breach,Lucknow,Government,Low,0.008433077208710685,Low
+2024,17,324825.0,Data Breach,Delhi,Corporate,High,0.11690812617128797,High
+2023,5,195555.0,Data Breach,Jaipur,Educational,Medium,0.07038241703509956,Medium
+2023,28,123720.0,Phishing,Ahmedabad,E-commerce,Medium,0.044528202477985834,Medium
+2020,12,50153.0,Phishing,Bangalore,Financial,Low,0.018050621879069053,Low
+2023,18,269512.0,Online Fraud,Jaipur,Government,High,0.0970003629667549,High
+2020,14,421640.0,Cyber Bullying,Lucknow,E-commerce,Critical,0.15175292024586118,Critical
+2019,21,375504.0,Online Fraud,Bangalore,E-commerce,High,0.13514806129399928,High
+2022,24,177076.0,Malware,Delhi,Government,Medium,0.06373161964105899,Medium
+2022,11,478085.0,Phishing,Lucknow,Educational,Critical,0.17206810282644563,Critical
+2022,9,220724.0,Ransomware,Bangalore,Corporate,Medium,0.07944101975227082,Medium
+2023,2,375899.0,Hacking,Delhi,Financial,High,0.13529022618228576,High
+2019,12,57985.0,Ransomware,Pune,Corporate,Low,0.02086944568934698,Low
+2023,3,313213.0,Hacking,Jaipur,Personal,High,0.11272883836677479,High
+2023,3,315470.0,Phishing,Jaipur,Corporate,High,0.11354115774111048,High
+2019,1,109737.0,Phishing,Ahmedabad,Social Media,Medium,0.039495565432644125,Medium
+2019,8,213133.0,Phishing,Delhi,Government,Medium,0.07670893451940312,Medium
+2019,22,155470.0,Online Fraud,Hyderabad,Financial,Medium,0.05595538020734285,Medium
+2019,28,230465.0,Cyber Bullying,Pune,Corporate,Medium,0.0829469138707485,Medium
+2022,8,51861.0,Hacking,Chennai,Financial,Low,0.018665350054242025,Low
+2021,11,339041.0,Cyber Bullying,Bangalore,Financial,High,0.12202462250516322,High
+2021,9,213977.0,Online Fraud,Pune,Personal,Medium,0.07701269949589373,Medium
+2019,5,128118.0,Online Fraud,Delhi,Personal,Medium,0.046111091537945265,Medium
+2021,14,331721.0,Identity Theft,Kolkata,Government,High,0.11939007318299336,High
+2021,28,197713.0,Ransomware,Bangalore,Educational,Medium,0.07115910520958627,Medium
+2019,3,10078.0,Ransomware,Mumbai,Social Media,Low,0.0036271841624081896,Low
+2021,21,419219.0,Malware,Jaipur,E-commerce,Critical,0.15088157544955336,Critical
+2023,5,325912.0,Data Breach,Delhi,Financial,High,0.11729934954740799,High
+2020,5,52047.0,Online Fraud,Mumbai,Educational,Low,0.018732293520625026,Low
+2020,19,334770.0,Hacking,Ahmedabad,E-commerce,High,0.1204874421561212,High
+2019,27,320804.0,Identity Theft,Lucknow,E-commerce,High,0.11546092359964247,High
+2022,14,236458.0,Identity Theft,Chennai,Social Media,Medium,0.08510386115049767,Medium
+2019,26,444002.0,Data Breach,Chennai,Government,Critical,0.1598012524784244,Critical
+2022,4,396141.0,Cyber Bullying,Mumbai,E-commerce,High,0.14257554686252655,High
+2020,25,216048.0,Data Breach,Jaipur,Social Media,Medium,0.07775807540384645,Medium
+2019,13,237293.0,Data Breach,Ahmedabad,E-commerce,Medium,0.08540438692700203,Medium
+2024,10,118832.0,Data Breach,Kolkata,Financial,Medium,0.04276895697432923,Medium
+2023,25,393550.0,Ransomware,Jaipur,Financial,High,0.1416430171775891,High
+2021,18,126150.0,Online Fraud,Pune,Health,Medium,0.04540278647427993,Medium
+2022,8,158087.0,Malware,Chennai,Educational,Medium,0.056897267581129535,Medium
+2024,8,34320.0,Online Fraud,Pune,Corporate,Low,0.012352149280993159,Low
+2021,7,328025.0,Cyber Bullying,Bangalore,Social Media,High,0.11805984172196331,High
+2021,8,91827.0,Phishing,Hyderabad,Personal,Low,0.03304955745995801,Low
+2019,14,365359.0,Data Breach,Delhi,Social Media,High,0.13149676308724884,High
+2021,19,420505.0,Online Fraud,Ahmedabad,Corporate,Critical,0.15134442113648103,Critical
+2023,6,260931.0,Cyber Bullying,Jaipur,Educational,High,0.09391196573539703,High
+2024,1,397605.0,Phishing,Chennai,Personal,High,0.1431024567269605,High
+2021,23,419899.0,Phishing,Pune,Corporate,Critical,0.15112631500407187,Critical
+2019,15,407845.0,Data Breach,Lucknow,Health,Critical,0.14678794648912166,Critical
+2023,1,324694.0,Malware,Bangalore,Personal,High,0.11686097781593219,High
+2020,25,25826.0,Hacking,Delhi,Financial,Low,0.00929506431616927,Low
+2024,17,101734.0,Ransomware,Delhi,Corporate,Medium,0.03661519682262698,Medium
+2021,1,158702.0,Online Fraud,Jaipur,Social Media,Medium,0.05711861291352495,Medium
+2019,15,230834.0,Phishing,Ahmedabad,Personal,Medium,0.08307972107018576,Medium
+2020,23,178235.0,Online Fraud,Kolkata,Health,Medium,0.06414875661706922,Medium
+2020,2,99511.0,Hacking,Lucknow,Social Media,Low,0.035815114426017196,Low
+2022,14,460651.0,Ransomware,Jaipur,E-commerce,Critical,0.16579341254192248,Critical
+2023,21,274797.0,Hacking,Pune,Personal,High,0.09890249318091718,High
+2021,8,160033.0,Ransomware,Hyderabad,Personal,Medium,0.057597654600383984,Medium
+2019,8,82941.0,Identity Theft,Mumbai,Health,Low,0.029851387340176387,Low
+2022,19,206209.0,Ransomware,Kolkata,E-commerce,Medium,0.07421690999662933,Medium
+2023,7,296806.0,Data Breach,Ahmedabad,Corporate,High,0.1068237767917965,High
+2022,19,99818.0,Malware,Bangalore,Government,Low,0.03592560713666012,Low
+2024,6,450662.0,Hacking,Kolkata,Corporate,Critical,0.16219826046826746,Critical
+2023,6,153360.0,Phishing,Chennai,E-commerce,Medium,0.05519596776611629,Medium
+2023,3,254627.0,Data Breach,Ahmedabad,Educational,High,0.09164308610056658,High
+2021,7,96081.0,Identity Theft,Hyderabad,Social Media,Low,0.034580619320137056,Low
+2023,19,37877.0,Malware,Chennai,Health,Low,0.01363235309779073,Low
+2022,8,374706.0,Online Fraud,Kolkata,Corporate,High,0.13486085222854963,High
+2023,10,409529.0,Data Breach,Mumbai,Personal,Critical,0.14739403679766455,Critical
+2021,20,212957.0,Hacking,Mumbai,Health,Medium,0.07664559016411597,Medium
+2021,15,73715.0,Cyber Bullying,Hyderabad,Financial,Low,0.02653084744313551,Low
+2024,15,142398.0,Cyber Bullying,Delhi,E-commerce,Medium,0.051250622182834035,Medium
+2022,1,111091.0,Phishing,Lucknow,Social Media,Medium,0.039982885075023636,Medium
+2020,20,133632.0,Ransomware,Bangalore,Corporate,Medium,0.04809564139620274,Medium
+2020,7,342292.0,Phishing,Delhi,Health,High,0.12319469352242746,High
+2023,27,84186.0,Cyber Bullying,Mumbai,Social Media,Low,0.030299476671611016,Low
+2024,4,420961.0,Online Fraud,Mumbai,Corporate,Critical,0.15150854060245225,Critical
+2019,6,163962.0,Identity Theft,Pune,Health,Medium,0.05901174534994756,Medium
+2023,25,152094.0,Identity Theft,Chennai,Personal,Medium,0.054740320301380346,Medium
+2024,1,386773.0,Hacking,Kolkata,Financial,High,0.13920389958792445,High
+2022,5,446795.0,Identity Theft,Bangalore,Financial,Critical,0.1608064842074982,Critical
+2022,27,71316.0,Hacking,Hyderabad,Educational,Low,0.02566742069123858,Low
+2022,23,478063.0,Data Breach,Kolkata,Health,Critical,0.17206018478203475,Critical
+2022,1,29380.0,Hacking,Pune,Corporate,Low,0.010574188399638083,Low
+2022,4,111198.0,Data Breach,Mumbai,Financial,Medium,0.04002139556374934,Medium
+2024,22,265500.0,Hacking,Hyderabad,E-commerce,High,0.09555639959509568,High
+2024,2,71326.0,Cyber Bullying,Mumbai,Financial,Low,0.02567101980233444,Low
+2021,10,355591.0,Cyber Bullying,Bangalore,Government,High,0.1279811513688123,High
+2020,5,115994.0,Ransomware,Chennai,Government,Medium,0.041747529245324023,Medium
+2022,27,221971.0,Data Breach,Kolkata,Financial,Medium,0.07988982890592461,Medium
+2019,10,283193.0,Malware,Kolkata,Health,High,0.10192430685700161,High
+2024,1,469933.0,Data Breach,Delhi,Educational,Critical,0.1691341074611002,Critical
+2019,22,368505.0,Hacking,Hyderabad,Financial,High,0.13262904343800652,High
+2019,6,279226.0,Hacking,Lucknow,Personal,High,0.10049653948527378,High
+2019,13,263805.0,Malware,Pune,Social Media,High,0.09494635026434733,High
+2021,15,169484.0,Phishing,Lucknow,Corporate,Medium,0.06099917449708172,Medium
+2024,4,266064.0,Hacking,Delhi,Educational,High,0.09575938946090222,High
+2019,13,485410.0,Ransomware,Bangalore,Personal,Critical,0.17470445170416343,Critical
+2022,24,246378.0,Identity Theft,Pune,Educational,Medium,0.08867417935759128,Medium
+2023,20,454531.0,Identity Theft,Chennai,Personal,Critical,0.16359075655125588,Critical
+2019,24,342705.0,Online Fraud,Lucknow,Corporate,High,0.1233433368106865,High
+2021,15,272090.0,Online Fraud,Chennai,Corporate,High,0.09792821380726774,High
+2024,8,226314.0,Identity Theft,Lucknow,Government,Medium,0.08145292285485681,Medium
+2021,5,439716.0,Identity Theft,Chennai,Health,Critical,0.15825867346273859,Critical
+2019,15,236612.0,Cyber Bullying,Lucknow,Personal,Medium,0.08515928746137394,Medium
+2024,4,279453.0,Ransomware,Chennai,Social Media,High,0.1005782393071498,High
+2023,12,56230.0,Malware,Delhi,Government,Low,0.020237801692023466,Low
+2019,13,374966.0,Online Fraud,Ahmedabad,Personal,High,0.13495442911704197,High
+2021,2,492872.0,Cyber Bullying,Pune,Government,Critical,0.17739010840389452,Critical
+2020,27,424243.0,Cyber Bullying,Hyderabad,Corporate,Critical,0.15268976886411367,Critical
+2022,19,466757.0,Malware,Bangalore,Educational,Critical,0.1679910297770549,Critical
+2021,19,375484.0,Cyber Bullying,Jaipur,E-commerce,High,0.13514086307180756,High
+2024,4,60321.0,Data Breach,Mumbai,Government,Low,0.021710198041339987,Low
+2019,4,133028.0,Ransomware,Hyderabad,Personal,Medium,0.04787825508601276,Medium
+2022,26,232447.0,Identity Theft,Mumbai,Personal,Medium,0.08366025768994804,Medium
+2019,11,337275.0,Hacking,Pune,E-commerce,High,0.12138901948563427,High
+2024,27,442124.0,Malware,Hyderabad,Health,Critical,0.15912533941462179,Critical
+2019,5,472555.0,Identity Theft,Chennai,Social Media,Critical,0.1700777943904348,Critical
+2020,20,289107.0,Identity Theft,Chennai,Corporate,High,0.1040528211590935,High
+2022,11,102757.0,Phishing,Jaipur,Personal,Medium,0.03698338588773351,Medium
+2022,10,433659.0,Data Breach,Mumbai,Financial,Critical,0.1560786918719759,Critical
+2024,8,362403.0,Malware,Bangalore,Educational,High,0.13043286584731248,High
+2020,6,302207.0,Cyber Bullying,Pune,Government,High,0.10876765669467073,High
+2021,6,377369.0,Hacking,Chennai,Health,High,0.13581929551337726,High
+2019,8,379544.0,Malware,Ahmedabad,Social Media,High,0.13660210217672691,High
+2023,23,343962.0,Cyber Bullying,Delhi,E-commerce,High,0.12379574507543616,High
+2019,15,267847.0,Identity Theft,Delhi,Educational,High,0.09640111096929413,High
+2019,26,197200.0,Hacking,Lucknow,Corporate,Medium,0.07097447081036863,Medium
+2021,14,73099.0,Cyber Bullying,Bangalore,Health,Low,0.026309142199630504,Low
+2019,11,420065.0,Ransomware,Delhi,Social Media,Critical,0.15118606024826314,Critical
+2020,12,163932.0,Cyber Bullying,Lucknow,Government,Medium,0.059000948016659976,Medium
+2020,26,32585.0,Phishing,Mumbai,Government,Low,0.011727703505861367,Low
+2022,13,416231.0,Data Breach,Chennai,E-commerce,Critical,0.14980616105411024,Critical
+2024,8,471755.0,Identity Theft,Chennai,Financial,Critical,0.16978986550276598,Critical
+2023,18,44585.0,Cyber Bullying,Ahmedabad,E-commerce,Low,0.01604663682089394,Low
+2019,25,290102.0,Data Breach,Hyderabad,Corporate,High,0.10441093271313162,High
+2019,1,289161.0,Online Fraud,Delhi,Health,High,0.10407225635901117,High
+2021,15,470923.0,Online Fraud,Mumbai,Health,Critical,0.16949041945959037,Critical
+2024,8,387821.0,Data Breach,Kolkata,Personal,High,0.13958108643077063,High
+2020,28,439566.0,Data Breach,Delhi,Financial,Critical,0.15820468679630068,Critical
+2023,11,406417.0,Phishing,Bangalore,Financial,Critical,0.14627399342463276,Critical
+2022,12,292570.0,Ransomware,Hyderabad,Health,High,0.10529919333158999,High
+2020,12,280922.0,Identity Theft,Delhi,Health,High,0.10110694872713172,High
+2024,4,177313.0,Malware,Mumbai,Educational,Medium,0.06381691857403088,Medium
+2022,16,43229.0,Phishing,Delhi,Social Media,Low,0.015558597356295258,Low
+2021,4,87652.0,Ransomware,Bangalore,Educational,Low,0.03154692857743626,Low
+2021,5,391411.0,Data Breach,Kolkata,Educational,High,0.14087316731418456,High
+2019,24,250474.0,Malware,Pune,Financial,High,0.09014837526245573,High
+2024,5,180436.0,Data Breach,Jaipur,Personal,Medium,0.06494092096926812,Medium
+2023,8,493049.0,Data Breach,Kolkata,Government,Critical,0.17745381267029126,Critical
+2022,10,389647.0,Online Fraud,Lucknow,Educational,High,0.14023828411687475,High
+2020,17,261116.0,Online Fraud,Delhi,Personal,High,0.09397854929067044,High
+2024,28,348022.0,Malware,Chennai,E-commerce,High,0.1252569841803555,High
+2024,26,320200.0,Phishing,Ahmedabad,Corporate,High,0.1152435372894525,High
+2021,9,421706.0,Online Fraud,Chennai,Educational,Critical,0.15177667437909387,Critical
+2019,22,20975.0,Identity Theft,Kolkata,E-commerce,Low,0.007549135523567352,Low
+2019,19,158795.0,Data Breach,Chennai,Government,Medium,0.05715208464671646,Medium
+2022,14,417495.0,Hacking,Mumbai,Corporate,Critical,0.15026108869662702,Critical
+2021,8,210373.0,Cyber Bullying,Chennai,Corporate,Medium,0.07571557985694563,Medium
+2024,9,405777.0,Malware,Hyderabad,Government,Critical,0.1460436503144977,Critical
+2023,22,198133.0,Malware,Pune,Educational,Medium,0.07131026787561241,Medium
+2021,11,351541.0,Online Fraud,Delhi,Financial,High,0.12652351137498882,High
+2022,23,181225.0,Phishing,Chennai,Government,Medium,0.0652248908347315,Medium
+2022,1,296286.0,Data Breach,Bangalore,Government,High,0.10663662301481176,High
+2021,14,290060.0,Identity Theft,Pune,Government,High,0.10439581644652901,High
+2022,5,65324.0,Phishing,Pune,Corporate,Low,0.023510833322598984,Low
+2021,21,177037.0,Ransomware,Chennai,Social Media,Medium,0.06371758310778514,Medium
+2020,26,389076.0,Ransomware,Pune,Personal,High,0.14003277487330112,High
+2021,14,136720.0,Hacking,Ahmedabad,E-commerce,Medium,0.049207046902604454,Medium
+2021,4,167205.0,Online Fraud,Chennai,Financial,Medium,0.06017893707833512,Medium
+2022,22,444893.0,Online Fraud,Mumbai,Educational,Critical,0.16012193327706556,Critical
+2022,23,97059.0,Online Fraud,Kolkata,Educational,Low,0.03493261238531221,Low
+2019,25,488804.0,Hacking,Hyderabad,E-commerce,Critical,0.17592599001009848,Critical
+2019,1,494166.0,Ransomware,Jaipur,Personal,Critical,0.1778558333796989,Critical
+2020,22,99317.0,Phishing,Lucknow,Government,Low,0.035745291670757504,Low
+2019,23,202207.0,Hacking,Pune,Social Media,Medium,0.07277654573606597,Medium
+2021,19,298190.0,Hacking,Mumbai,Financial,High,0.10732189376746358,High
+2022,8,441280.0,Phishing,Delhi,Educational,Critical,0.15882157443813116,Critical
+2019,15,102459.0,Online Fraud,Delhi,E-commerce,Medium,0.03687613237707687,Medium
+2019,21,238697.0,Identity Theft,Lucknow,Health,Medium,0.08590970212486085,Medium
+2020,15,201422.0,Phishing,Hyderabad,Social Media,Medium,0.07249401551504091,Medium
+2024,9,309037.0,Ransomware,Pune,E-commerce,High,0.11122584957314345,High
+2020,21,102520.0,Malware,Ahmedabad,Social Media,Medium,0.03689808695476162,Medium
+2021,9,388962.0,Data Breach,Lucknow,Educational,High,0.1399917450068083,High
+2022,10,62272.0,Malware,Hyderabad,Government,Low,0.022412384616142367,Low
+2020,20,224224.0,Cyber Bullying,Pune,Health,Medium,0.08070070863582197,Medium
+2019,25,330793.0,Cyber Bullying,Mumbai,Personal,High,0.11905607567329748,High
+2022,21,327818.0,Hacking,Kolkata,Financial,High,0.117985340122279,High
+2022,26,145832.0,Data Breach,Ahmedabad,Personal,Medium,0.05248655693315252,Medium
+2019,9,153999.0,Malware,Jaipur,Personal,Medium,0.055425950965141774,Medium
+2020,3,349619.0,Identity Theft,Delhi,E-commerce,High,0.12583176222236442,High
+2019,20,62367.0,Online Fraud,Bangalore,Social Media,Low,0.022446576171553042,Low
+2024,25,230027.0,Ransomware,Mumbai,Financial,Medium,0.08278927280474982,Medium
+2022,26,406804.0,Cyber Bullying,Delhi,Financial,Critical,0.14641327902404258,Critical
+2023,11,384894.0,Identity Theft,Chennai,Educational,High,0.13852762661301227,High
+2023,6,233750.0,Ransomware,Bangalore,Educational,Medium,0.08412922186573867,Medium
+2021,2,236806.0,Ransomware,Delhi,Financial,Medium,0.08522911021663362,Medium
+2019,7,381298.0,Online Fraud,Hyderabad,Health,High,0.13723338626294082,High
+2019,18,184305.0,Data Breach,Ahmedabad,Corporate,Medium,0.06633341705225654,Medium
+2021,27,45738.0,Hacking,Delhi,Educational,Low,0.016461614330246652,Low
+2021,2,34397.0,Malware,Jaipur,Corporate,Low,0.012379862436431285,Low
+2021,27,345333.0,Online Fraud,Kolkata,E-commerce,High,0.12428918320667864,High
+2022,17,339511.0,Identity Theft,Hyderabad,Health,High,0.12219378072666866,High
+2024,11,203332.0,Hacking,Mumbai,Financial,Medium,0.07318144573435026,Medium
+2019,27,383729.0,Identity Theft,Mumbai,Health,High,0.13810833017034452,High
+2022,12,339763.0,Hacking,Mumbai,Educational,High,0.12228447832628435,High
+2021,27,112453.0,Data Breach,Mumbai,Personal,Medium,0.04047308400627983,Medium
+2019,19,20816.0,Cyber Bullying,Kolkata,E-commerce,Low,0.0074919096571431695,Low
+2022,22,436456.0,Identity Theft,Delhi,Financial,Critical,0.15708536324548805,Critical
+2024,24,400492.0,Online Fraud,Pune,Government,Critical,0.14414152010033546,Critical
+2022,25,246011.0,Hacking,Delhi,E-commerce,Medium,0.0885420919803732,Medium
+2024,7,498415.0,Hacking,Chennai,Social Media,Critical,0.17938509568433,Critical
+2021,20,342674.0,Ransomware,Ahmedabad,Corporate,High,0.12333217956628933,High
+2024,6,417715.0,Ransomware,Bangalore,Health,Critical,0.15034026914073595,Critical
+2019,21,482792.0,Phishing,Pune,Financial,Critical,0.17376220441926718,Critical
+2021,24,372000.0,Identity Theft,Pune,E-commerce,High,0.13388693276600977,High
+2019,1,214567.0,Ransomware,Delhi,Health,Medium,0.0772250470505495,Medium
+2023,17,72635.0,Phishing,Pune,Financial,Low,0.026142143444782582,Low
+2020,11,370947.0,Cyber Bullying,Lucknow,Educational,High,0.13350794636761565,High
+2024,22,217184.0,Cyber Bullying,Lucknow,E-commerce,Medium,0.0781669344243362,Medium
+2020,26,299090.0,Ransomware,Chennai,Educational,High,0.10764581376609102,High
+2020,28,318348.0,Identity Theft,Bangalore,E-commerce,High,0.11457698191449912,High
+2024,18,183958.0,Hacking,Jaipur,Educational,Medium,0.06620852789723017,Medium
+2021,21,465868.0,Malware,Kolkata,Social Media,Critical,0.1676710688006329,Critical
+2023,17,278707.0,Data Breach,Delhi,Health,High,0.10030974561939861,High
+2019,7,93324.0,Identity Theft,Kolkata,Government,Low,0.03358834439100832,Low
+2022,17,224536.0,Data Breach,Jaipur,E-commerce,Medium,0.08081300090201282,Medium
+2019,20,233944.0,Online Fraud,Delhi,Social Media,Medium,0.08419904462099836,Medium
+2022,9,272991.0,Cyber Bullying,Delhi,E-commerce,High,0.09825249371700477,High
+2019,17,27155.0,Ransomware,Bangalore,Educational,Low,0.009773386180809127,Low
+2024,20,342815.0,Ransomware,Kolkata,Financial,High,0.12338292703274097,High
+2023,22,117891.0,Data Breach,Lucknow,E-commerce,Medium,0.04243028062020875,Medium
+2022,22,346454.0,Hacking,Mumbai,Social Media,High,0.12469264356052459,High
+2021,28,461494.0,Data Breach,Kolkata,Educational,Critical,0.16609681760730355,Critical
+2019,8,150381.0,Online Fraud,Ahmedabad,Personal,Medium,0.05412379257065945,Medium
+2019,17,132691.0,Hacking,Ahmedabad,Educational,Medium,0.04775696504208226,Medium
+2022,7,477410.0,Online Fraud,Delhi,Health,Critical,0.17182516282747506,Critical
+2021,1,444324.0,Malware,Mumbai,Government,Critical,0.1599171438557111,Critical
+2021,13,35707.0,Cyber Bullying,Hyderabad,Personal,Low,0.012851345989989008,Low
+2024,23,414553.0,Ransomware,Jaipur,Health,Critical,0.14920223021222487,Critical
+2024,19,344681.0,Ransomware,Chennai,Health,High,0.12405452116322853,High
+2024,27,198576.0,Malware,Mumbai,Health,Medium,0.07146970849715903,Medium
+2024,24,179686.0,Phishing,Chennai,Financial,Medium,0.06467098763707858,Medium
+2024,19,223500.0,Cyber Bullying,Kolkata,Health,Medium,0.08044013299248168,Medium
+2024,17,354299.0,Hacking,Kolkata,Financial,High,0.12751614621522714,High
+2023,13,263425.0,Malware,Chennai,Health,High,0.09480958404270463,High
+2021,16,159492.0,Hacking,Jaipur,Corporate,Medium,0.05740294269009793,Medium
+2024,8,475112.0,Data Breach,Mumbai,Social Media,Critical,0.17099808709764633,Critical
+2021,19,171102.0,Identity Theft,Hyderabad,Personal,Medium,0.06158151067239195,Medium
+2021,18,395274.0,Ransomware,Delhi,Corporate,High,0.14226350393051543,High
+2020,1,218285.0,Hacking,Bangalore,Health,Medium,0.07856319655599044,Medium
+2023,14,339404.0,Online Fraud,Kolkata,Personal,High,0.12215527023794297,High
+2024,19,160476.0,Hacking,Ahmedabad,Personal,Medium,0.0577570952219306,Medium
+2019,15,235554.0,Identity Theft,Jaipur,E-commerce,Medium,0.0847785015074319,Medium
+2022,18,499500.0,Cyber Bullying,Bangalore,Government,Critical,0.17977559923823086,Critical
+2019,2,161928.0,Ransomware,Hyderabad,Corporate,Medium,0.05827968615304954,Medium
+2023,22,141272.0,Data Breach,Pune,Government,Medium,0.050845362273440144,Medium
+2022,28,327322.0,Malware,Delhi,Personal,High,0.11780682421192433,High
+2023,17,297141.0,Data Breach,Kolkata,Financial,High,0.10694434701350783,High
+2021,18,419827.0,Identity Theft,Delhi,Personal,Critical,0.15110040140418168,Critical
+2022,6,120273.0,Ransomware,Bangalore,Government,Medium,0.043287588883242724,Medium
+2021,19,173307.0,Hacking,Delhi,Corporate,Medium,0.06237511466902918,Medium
+2019,4,249500.0,Cyber Bullying,Pune,Health,Medium,0.08979782184171892,Medium
+2019,1,167129.0,Phishing,Bangalore,E-commerce,Medium,0.06015158383400658,Medium
+2022,8,133311.0,Cyber Bullying,Kolkata,E-commerce,Medium,0.04798010993002561,Medium
+2022,23,235746.0,Phishing,Mumbai,E-commerce,Medium,0.08484760444047242,Medium
+2024,7,246546.0,Online Fraud,Ahmedabad,Health,Medium,0.08873464442400172,Medium
+2023,3,197733.0,Cyber Bullying,Bangalore,E-commerce,Medium,0.07116630343177797,Medium
+2024,10,127945.0,Ransomware,Lucknow,Corporate,Medium,0.046048826915986885,Medium
+2023,10,46272.0,Phishing,Pune,Health,Low,0.016653806862765602,Low
+2024,19,352537.0,Malware,Bangalore,E-commerce,High,0.12688198284013652,High
+2021,14,324356.0,Ransomware,Bangalore,Health,High,0.11673932786089211,High
+2022,2,147470.0,Malware,Lucknow,Government,Medium,0.05307609133065447,Medium
+2019,28,121030.0,Cyber Bullying,Kolkata,Social Media,Medium,0.04356004159319936,Medium
+2023,1,319647.0,Malware,Bangalore,Social Media,High,0.11504450644585142,High
+2023,23,400854.0,Phishing,Ahmedabad,Corporate,Critical,0.1442718079220056,Critical
+2019,23,7570.0,Ransomware,Delhi,Educational,Low,0.0027245270995663816,Low
+2024,28,331929.0,Hacking,Kolkata,Financial,High,0.11946493469378724,High
+2023,18,10110.0,Identity Theft,Ahmedabad,E-commerce,Low,0.0036387013179149433,Low
+2021,7,80141.0,Phishing,Kolkata,Financial,Low,0.028843636233335454,Low
+2022,8,13115.0,Phishing,Ahmedabad,Health,Low,0.004720234202221017,Low
+2019,1,40062.0,Hacking,Pune,Financial,Low,0.014418758872236247,Low
+2022,25,286055.0,Ransomware,Ahmedabad,Corporate,High,0.1029543724526369,High
+2023,23,105061.0,Ransomware,Chennai,Corporate,Medium,0.03781262108421977,Medium
+2023,3,295700.0,Data Breach,Ahmedabad,Personal,High,0.10642571510459432,High
+2019,24,472347.0,Cyber Bullying,Mumbai,Social Media,Critical,0.1700029328796409,Critical
+2021,23,391479.0,Malware,Mumbai,E-commerce,High,0.1408976412696364,High
+2020,27,2969.0,Cyber Bullying,Jaipur,Personal,Low,0.0010685760843609758,Low
+2019,8,306897.0,Hacking,Chennai,Financial,High,0.11045563979862931,High
+2020,22,477027.0,Cyber Bullying,Chennai,Educational,Critical,0.1716873168725036,Critical
+2024,25,398686.0,Hacking,Delhi,Personal,High,0.14349152063642304,High
+2020,15,122863.0,Ransomware,Chennai,Personal,Medium,0.04421975865707059,Medium
+2021,5,273369.0,Malware,Delhi,Corporate,High,0.0983885401164283,High
+2024,3,124008.0,Cyber Bullying,Jaipur,Educational,Medium,0.044631856877546616,Medium
+2020,19,155268.0,Phishing,Jaipur,Health,Medium,0.05588267816320646,Medium
+2024,1,106823.0,Online Fraud,Pune,Financial,Medium,0.038446784459310386,Medium
+2020,28,276813.0,Data Breach,Mumbai,Personal,High,0.09962807397784265,High
+2021,15,431596.0,Identity Theft,Ahmedabad,Educational,Critical,0.15533619525289988,Critical
+2020,8,387542.0,Phishing,Ahmedabad,Social Media,High,0.13948067123119612,High
+2020,2,111677.0,Ransomware,Lucknow,E-commerce,Medium,0.040193792985241054,Medium
+2020,3,247958.0,Identity Theft,Lucknow,Educational,Medium,0.08924283891073723,Medium
+2019,24,49320.0,Online Fraud,Hyderabad,Social Media,Low,0.017750815924783878,Low
+2019,14,441630.0,Online Fraud,Kolkata,Financial,Critical,0.15894754332648628,Critical
+2019,24,497758.0,Malware,Pune,Educational,Critical,0.17914863408533196,Critical
+2021,14,147649.0,Identity Theft,Hyderabad,Social Media,Medium,0.05314051541927036,Medium
+2024,11,126354.0,Malware,Hyderabad,Educational,Medium,0.04547620834063548,Medium
+2023,16,89009.0,Phishing,Bangalore,Educational,Low,0.032035327953144524,Low
+2020,4,258437.0,Hacking,Bangalore,E-commerce,High,0.09301434742808944,High
+2020,20,449625.0,Hacking,Hyderabad,Social Media,Critical,0.16182503264762674,Critical
+2021,5,29625.0,Hacking,Chennai,Social Media,Low,0.010662366621486665,Low
+2020,22,213112.0,Identity Theft,Kolkata,Personal,Medium,0.07670137638610182,Medium
+2019,21,287233.0,Hacking,Pune,Financial,High,0.10337834773972926,High
+2023,14,37487.0,Phishing,Hyderabad,E-commerce,Low,0.013491987765052173,Low
+2022,23,460054.0,Malware,Ahmedabad,Educational,Critical,0.16557854560949964,Critical
+2020,16,229071.0,Identity Theft,Kolkata,Educational,Medium,0.08244519778398554,Medium
+2019,18,373592.0,Malware,Bangalore,Personal,High,0.13445991125247075,High
+2022,7,489011.0,Identity Theft,Ahmedabad,Financial,Critical,0.17600049160978282,Critical
+2023,10,313282.0,Malware,Bangalore,Corporate,High,0.11275367223333621,High
+2022,7,174895.0,Online Fraud,Bangalore,E-commerce,Medium,0.06294665351105183,Medium
+2019,1,431424.0,Malware,Kolkata,Personal,Critical,0.15527429054205108,Critical
+2024,23,317205.0,Hacking,Bangalore,Financial,High,0.11416560351624229,High
+2024,21,424875.0,Online Fraud,Jaipur,E-commerce,Critical,0.15291723268537205,Critical
+2022,19,102376.0,Malware,Mumbai,Educational,Medium,0.03684625975498123,Medium
+2021,16,426106.0,Identity Theft,Jaipur,Financial,Critical,0.15336028326127246,Critical
+2022,19,342278.0,Identity Theft,Mumbai,Financial,High,0.12318965476689327,High
+2020,4,310199.0,Data Breach,Lucknow,Health,High,0.11164406628248244,High
+2020,28,244341.0,Identity Theft,Lucknow,Financial,Medium,0.0879410404273645,Medium
+2024,18,282652.0,Ransomware,Bangalore,Corporate,High,0.10172959494671559,High
+2021,2,436503.0,Phishing,Pune,Financial,Critical,0.15710227906763863,Critical
+2019,1,473132.0,Identity Theft,Pune,Corporate,Critical,0.17028546310066597,Critical
+2020,15,159056.0,Online Fraud,Mumbai,Educational,Medium,0.05724602144631841,Medium
+2024,5,111169.0,Data Breach,Ahmedabad,Corporate,Medium,0.040010958141571344,Medium
+2023,20,271269.0,Identity Theft,Kolkata,E-commerce,High,0.0976327267862976,High
+2024,11,37059.0,Ransomware,Bangalore,Educational,Low,0.013337945810149344,Low
+2020,10,463785.0,Hacking,Kolkata,Educational,Critical,0.16692137395936515,Critical
+2020,2,104409.0,Online Fraud,Jaipur,Corporate,Medium,0.03757795904076966,Medium
+2024,3,411303.0,Ransomware,Pune,Social Media,Critical,0.1480325191060702,Critical
+2019,23,6704.0,Hacking,Chennai,Personal,Low,0.0024128440786648645,Low
+2022,23,454792.0,Cyber Bullying,Jaipur,Government,Critical,0.16368469335085784,Critical
+2020,12,205456.0,Cyber Bullying,Jaipur,Social Media,Medium,0.07394589693111103,Medium
+2024,20,219200.0,Online Fraud,Mumbai,Financial,Medium,0.07889251522126167,Medium
+2024,5,112279.0,Malware,Delhi,Health,Medium,0.040410459473211854,Medium
+2021,5,466676.0,Phishing,Jaipur,Government,Critical,0.16796187697717843,Critical
+2022,6,159280.0,Data Breach,Bangalore,Financial,Medium,0.057326641534865684,Medium
+2023,9,119516.0,Phishing,Hyderabad,Social Media,Medium,0.04301513617328609,Medium
+2019,2,479366.0,Ransomware,Hyderabad,Social Media,Critical,0.17252914895782537,Critical
+2023,21,198096.0,Hacking,Bangalore,Financial,Medium,0.07129695116455771,Medium
+2022,12,434098.0,Phishing,Delhi,Educational,Critical,0.15623669284908417,Critical
+2022,3,420139.0,Hacking,Delhi,Financial,Critical,0.15121269367037252,Critical
+2022,20,377188.0,Hacking,Mumbai,Health,High,0.1357541516025422,High
+2023,26,233549.0,Ransomware,Pune,Social Media,Medium,0.08405687973271186,Medium
+2022,22,30165.0,Ransomware,Kolkata,Financial,Low,0.010856718620663132,Low
+2024,12,68203.0,Ransomware,Delhi,Corporate,Low,0.024547017407097218,Low
+2023,24,485965.0,Phishing,Chennai,Government,Critical,0.17490420236998372,Critical
+2022,17,267258.0,Cyber Bullying,Mumbai,Corporate,High,0.09618912332574794,High
+2024,10,459181.0,Ransomware,Lucknow,Health,Critical,0.165264343210831,Critical
+2021,24,37321.0,Data Breach,Ahmedabad,Financial,Low,0.01343224252086089,Low
+2022,27,336441.0,Phishing,Lucknow,E-commerce,High,0.1210888536202395,High
+2023,14,359796.0,Ransomware,Mumbai,Health,High,0.12949457758462166,High
+2020,23,362448.0,Identity Theft,Jaipur,Educational,High,0.13044906184724384,High
+2022,17,246014.0,Hacking,Kolkata,Corporate,Medium,0.08854317171370196,Medium
+2020,18,157498.0,Data Breach,Ahmedabad,Corporate,Medium,0.05668527993758335,Medium
+2024,19,18772.0,Ransomware,Lucknow,Personal,Low,0.006756251349149289,Low
+2021,17,366898.0,Online Fraud,Ahmedabad,Financial,High,0.13205066628490175,High
+2019,14,266856.0,Hacking,Chennai,Educational,High,0.09604443905969437,High
+2021,9,395583.0,Hacking,Chennai,E-commerce,High,0.14237471646337754,High
+2022,8,239389.0,Ransomware,Chennai,Corporate,Medium,0.0861587606126944,Medium
+2020,2,116142.0,Cyber Bullying,Mumbai,Corporate,Medium,0.041800796089542756,Medium
+2020,13,92736.0,Malware,Kolkata,Educational,Low,0.033376716658571726,Low
+2023,25,52924.0,Cyber Bullying,Mumbai,Health,Low,0.019047935563731994,Low
+2020,7,4726.0,Ransomware,Hyderabad,Health,Low,0.0017009399039036618,Low
+2023,9,352296.0,Hacking,Jaipur,Financial,High,0.1267952442627263,High
+2024,22,28723.0,Data Breach,Jaipur,Social Media,Low,0.010337726800640051,Low
+2019,22,390113.0,Online Fraud,Chennai,Personal,High,0.14040600269394185,High
+2022,11,235182.0,Data Breach,Hyderabad,Corporate,Medium,0.08464461457466588,Medium
+2023,14,363638.0,Data Breach,Delhi,Social Media,High,0.13087735606765125,High
+2019,4,141180.0,Hacking,Delhi,Social Media,Medium,0.050812250451358225,Medium
+2020,26,209786.0,Cyber Bullying,Chennai,Personal,Medium,0.07550431203561862,Medium
+2020,26,36643.0,Online Fraud,Lucknow,Social Media,Low,0.013188222788561549,Low
+2019,13,163396.0,Phishing,Mumbai,Social Media,Medium,0.05880803566192186,Medium
+2020,2,367040.0,Identity Theft,Chennai,Health,High,0.13210177366246295,High
+2024,23,215432.0,Hacking,Pune,Health,Medium,0.07753637016034144,Medium
+2024,5,140999.0,Ransomware,Ahmedabad,Government,Medium,0.05074710654052315,Medium
+2019,11,356824.0,Phishing,Jaipur,E-commerce,High,0.1284249217669319,High
+2023,6,359690.0,Identity Theft,Delhi,Financial,High,0.12945642700700552,High
+2023,18,416659.0,Ransomware,Bangalore,Social Media,Critical,0.14996020300901308,Critical
+2019,21,80973.0,Data Breach,Delhi,Government,Low,0.029143082276511044,Low
+2023,10,326593.0,Malware,Jaipur,E-commerce,High,0.11754444901303611,High
+2023,4,110834.0,Ransomware,Ahmedabad,Government,Medium,0.03989038791986002,Medium
+2024,9,237386.0,Online Fraud,Jaipur,Government,Medium,0.08543785866019353,Medium
+2023,6,470959.0,Online Fraud,Bangalore,Financial,Critical,0.1695033762595355,Critical
+2021,2,454449.0,Malware,Chennai,Financial,Critical,0.16356124384026982,Critical
+2022,17,288681.0,Phishing,Hyderabad,Educational,High,0.10389949902640985,High
+2020,5,495509.0,Identity Theft,Bangalore,Personal,Critical,0.17833919399987294,Critical
+2021,25,340720.0,Ransomware,Jaipur,Personal,High,0.1226289132581582,High
+2023,6,108522.0,Online Fraud,Jaipur,Educational,Medium,0.03905827343449708,Medium
+2024,26,23612.0,Phishing,Pune,Educational,Low,0.00849822111954576,Low
+2019,12,226049.0,Malware,Pune,Health,Medium,0.08135754641081651,Medium
+2023,23,269615.0,Cyber Bullying,Kolkata,E-commerce,High,0.09703743381104227,High
+2024,21,167703.0,Hacking,Pune,Government,Medium,0.06035817281090897,Medium
+2022,10,241069.0,Cyber Bullying,Mumbai,Social Media,Medium,0.08676341127679896,Medium
+2023,22,224131.0,Cyber Bullying,Hyderabad,Educational,Medium,0.08066723690263047,Medium
+2019,21,32348.0,Online Fraud,Ahmedabad,Corporate,Low,0.011642404572889474,Low
+2024,27,196804.0,Data Breach,Bangalore,Personal,Medium,0.07083194601097255,Medium
+2024,25,264321.0,Data Breach,Jaipur,Educational,High,0.09513206439689373,High
+2024,6,136832.0,Malware,Kolkata,Corporate,Medium,0.04924735694687808,Medium
+2022,27,295923.0,Ransomware,Kolkata,Corporate,High,0.10650597528203201,High
+2023,8,284780.0,Data Breach,Ahmedabad,Corporate,High,0.10249548578791469,High
+2022,2,82889.0,Cyber Bullying,Hyderabad,Health,Low,0.029832671962477915,Low
+2020,12,54551.0,Data Breach,Bangalore,Health,Low,0.019633510939028494,Low
+2020,13,405772.0,Cyber Bullying,Delhi,Social Media,Critical,0.14604185075894976,Critical
+2023,25,421814.0,Identity Theft,Pune,Social Media,Critical,0.15181554477892914,Critical
+2022,21,143635.0,Online Fraud,Chennai,Corporate,Medium,0.05169583222539197,Medium
+2019,7,47819.0,Online Fraud,Kolkata,E-commerce,Low,0.01721058934929522,Low
+2024,10,336914.0,Ransomware,Pune,Health,High,0.1212590915750737,High
+2024,13,485271.0,Data Breach,Pune,Government,Critical,0.17465442405993098,Critical
+2023,17,421182.0,Data Breach,Mumbai,Corporate,Critical,0.1515880809576708,Critical
+2020,26,213781.0,Hacking,Hyderabad,Government,Medium,0.07694215691841488,Medium
+2020,21,454105.0,Phishing,Chennai,Government,Critical,0.16343743441857222,Critical
+2024,28,159059.0,Identity Theft,Delhi,Corporate,Medium,0.057247101179647174,Medium
+2023,26,341858.0,Online Fraud,Jaipur,Personal,High,0.12303849210086712,High
+2022,14,499090.0,Identity Theft,Mumbai,E-commerce,Critical,0.17962803568330057,Critical
+2020,2,190420.0,Online Fraud,Pune,Corporate,Medium,0.06853427348737522,Medium
+2022,28,25596.0,Identity Theft,Pune,Social Media,Low,0.009212284760964478,Low
+2020,22,427390.0,Malware,Lucknow,Corporate,Critical,0.15382240912598094,Critical
+2020,11,327250.0,Cyber Bullying,Chennai,Health,High,0.11778091061203413,High
+2021,1,464183.0,Online Fraud,Chennai,Corporate,Critical,0.16706461858098043,Critical
+2020,19,60182.0,Identity Theft,Lucknow,Personal,Low,0.021660170397107527,Low
+2019,21,487516.0,Data Breach,Chennai,Health,Critical,0.17546242450095165,Critical
+2023,4,350307.0,Phishing,Pune,Social Media,High,0.12607938106575964,High
+2023,19,302454.0,Malware,Kolkata,Financial,High,0.10885655473873848,High
+2022,26,319232.0,Malware,Bangalore,Financial,High,0.1148951433353732,High
+2020,21,129803.0,Phishing,Pune,Government,Medium,0.046717541757597764,Medium
+2019,11,140978.0,Identity Theft,Mumbai,E-commerce,Medium,0.05073954840722184,Medium
+2022,8,300058.0,Data Breach,Hyderabad,Government,High,0.10799420772017031,High
+2021,11,373494.0,Ransomware,Lucknow,Personal,High,0.13442463996373133,High
+2022,4,46379.0,Phishing,Delhi,Educational,Low,0.01669231735149131,Low
+2022,17,472828.0,Identity Theft,Jaipur,Social Media,Critical,0.1701760501233518,Critical
+2020,27,246900.0,Phishing,Delhi,E-commerce,Medium,0.0888620529567952,Medium
+2021,7,259517.0,Phishing,Pune,Social Media,High,0.09340305142644235,High
+2022,8,431866.0,Online Fraud,Mumbai,Financial,Critical,0.1554333712524881,Critical
+2019,3,441097.0,Identity Theft,Pune,Government,Critical,0.1587557107050769,Critical
+2019,22,309557.0,Ransomware,Hyderabad,Social Media,High,0.11141300335012819,High
+2023,2,138084.0,Cyber Bullying,Kolkata,Financial,Medium,0.04969796565607982,Medium
+2021,23,182187.0,Online Fraud,Jaipur,Personal,Medium,0.06557112532215328,Medium
+2021,15,270295.0,Phishing,Hyderabad,Personal,High,0.09728217336556079,High
+2023,24,58716.0,Cyber Bullying,Lucknow,Educational,Low,0.02113254071045438,Low
+2022,22,356891.0,Hacking,Lucknow,Social Media,High,0.12844903581127418,High
+2021,22,224725.0,Cyber Bullying,Pune,Educational,Medium,0.08088102410172458,Medium
+2019,5,168450.0,Phishing,Mumbai,Health,Medium,0.060627026409769746,Medium
+2019,24,174724.0,Phishing,Hyderabad,E-commerce,Medium,0.06288510871131262,Medium
+2020,1,204502.0,Data Breach,Ahmedabad,Social Media,Medium,0.07360254173256595,Medium
+2021,26,145539.0,Identity Theft,Mumbai,Personal,Medium,0.05238110297804381,Medium
+2022,4,425226.0,Identity Theft,Kolkata,Government,Critical,0.15304356148483675,Critical
+2023,15,122999.0,Online Fraud,Lucknow,Financial,Medium,0.04426870656797429,Medium
+2023,20,115793.0,Ransomware,Pune,Corporate,Medium,0.04167518711229723,Medium
+2022,19,448907.0,Online Fraud,Chennai,Educational,Critical,0.16156661647094395,Critical
+2024,3,458373.0,Malware,Lucknow,Corporate,Critical,0.16497353503428547,Critical
+2020,20,371321.0,Phishing,Jaipur,Social Media,High,0.13364255312260084,High
+2023,11,13289.0,Cyber Bullying,Bangalore,Government,Low,0.004782858735288989,Low
+2021,17,177048.0,Hacking,Chennai,Educational,Medium,0.0637215421299906,Medium
+2020,27,175668.0,Phishing,Pune,Corporate,Medium,0.06322486479876184,Medium
+2021,13,417387.0,Phishing,Ahmedabad,E-commerce,Critical,0.15022221829679172,Critical
+2019,11,232513.0,Online Fraud,Chennai,Government,Medium,0.08368401182318072,Medium
+2020,2,258368.0,Hacking,Jaipur,Financial,High,0.09298951356152799,High
+2023,9,87365.0,Hacking,Mumbai,E-commerce,Low,0.03144363408898507,Low
+2020,26,231662.0,Hacking,Ahmedabad,Government,Medium,0.083377727468923,Medium
+2020,2,377158.0,Online Fraud,Lucknow,Health,High,0.1357433542692546,High
+2020,21,176211.0,Phishing,Ahmedabad,Educational,Medium,0.06342029653126707,Medium
+2024,9,180785.0,Online Fraud,Hyderabad,Personal,Medium,0.06506652994651364,Medium
+2020,9,423950.0,Identity Theft,Jaipur,Financial,Critical,0.15258431490900495,Critical
+2021,8,73588.0,Identity Theft,Chennai,Social Media,Low,0.026485138732218083,Low
+2019,17,64646.0,Online Fraud,Hyderabad,E-commerce,Low,0.023266813590299643,Low
+2022,1,266798.0,Hacking,Ahmedabad,E-commerce,High,0.09602356421533836,High
+2020,25,483238.0,Data Breach,Hyderabad,Corporate,Critical,0.17392272477414256,Critical
+2023,11,281887.0,Phishing,Delhi,Educational,High,0.10145426294788223,High
+2020,8,311512.0,Online Fraud,Jaipur,Social Media,High,0.11211662956936892,High
+2023,10,222097.0,Online Fraud,Kolkata,Personal,Medium,0.07993517770573245,Medium
+2021,25,206244.0,Online Fraud,Mumbai,Government,Medium,0.07422950688546484,Medium
+2023,7,400657.0,Data Breach,Ahmedabad,Personal,Critical,0.14420090543341715,Critical
+2022,3,120735.0,Data Breach,Jaipur,Educational,Medium,0.043453867815871475,Medium
+2019,3,156683.0,Malware,Kolkata,Educational,Medium,0.05639195238327072,Medium
+2023,18,383035.0,Identity Theft,Kolkata,Health,High,0.1378585518602918,High
+2023,5,108971.0,Cyber Bullying,Pune,Health,Medium,0.03921987352270121,Medium
+2019,12,13149.0,Hacking,Hyderabad,Personal,Low,0.004732471179946942,Low
+2022,12,363246.0,Ransomware,Kolkata,Government,High,0.13073627091269352,High
+2020,19,322333.0,Data Breach,Delhi,Personal,High,0.11601122768619954,High
+2023,6,239976.0,Cyber Bullying,Jaipur,Educational,Medium,0.0863700284340214,Medium
+2019,2,415891.0,Data Breach,Bangalore,Educational,Critical,0.149683791276851,Critical
+2021,12,334175.0,Hacking,Bangalore,Corporate,High,0.12027329504591751,High
+2019,19,43668.0,Ransomware,Ahmedabad,Health,Low,0.015716598333403532,Low
+2021,5,407889.0,Malware,Lucknow,Social Media,Critical,0.14680378257794344,Critical
+2022,12,470882.0,Online Fraud,Hyderabad,Social Media,Critical,0.16947566310409737,Critical
+2020,27,89204.0,Malware,Lucknow,Social Media,Low,0.032105510619513805,Low
+2019,27,212830.0,Data Breach,Kolkata,Corporate,Medium,0.07659988145319854,Medium
+2024,17,197501.0,Malware,Jaipur,Financial,Medium,0.07108280405435402,Medium
+2023,17,417885.0,Cyber Bullying,Ahmedabad,Social Media,Critical,0.15040145402936556,Critical
+2022,10,166140.0,Phishing,Chennai,Educational,Medium,0.05979563174662597,Medium
+2019,25,220861.0,Data Breach,Kolkata,Corporate,Medium,0.0794903275742841,Medium
+2023,23,141507.0,Data Breach,Hyderabad,Personal,Medium,0.050929941384192864,Medium
+2019,17,226160.0,Cyber Bullying,Bangalore,Health,Medium,0.08139749654398057,Medium
+2021,15,184321.0,Identity Theft,Pune,Health,Medium,0.0663391756300099,Medium
+2019,12,38384.0,Ransomware,Jaipur,Government,Low,0.013814828030350858,Low
+2024,16,82929.0,Online Fraud,Mumbai,Personal,Low,0.029847068406861355,Low
+2019,24,391103.0,Cyber Bullying,Lucknow,Government,High,0.14076231469243203,High
+2019,19,77153.0,Ransomware,Ahmedabad,Corporate,Low,0.02776822183789234,Low
+2024,8,236128.0,Hacking,Lucknow,E-commerce,Medium,0.0849850904843343,Medium
+2022,21,76388.0,Ransomware,Jaipur,Social Media,Low,0.02749288983905902,Low
+2019,17,32401.0,Hacking,Lucknow,Financial,Low,0.011661479861697535,Low
+2024,23,203903.0,Cyber Bullying,Jaipur,Personal,Medium,0.0733869549779239,Medium
+2023,5,120503.0,Data Breach,Lucknow,Personal,Medium,0.043370368438447514,Medium
+2021,22,233601.0,Data Breach,Delhi,Personal,Medium,0.08407559511041035,Medium
+2021,16,128834.0,Identity Theft,Chennai,Government,Medium,0.04636878789240888,Medium
+2019,6,35084.0,Cyber Bullying,Kolkata,Corporate,Low,0.012627121368716899,Low
+2022,8,252459.0,Hacking,Kolkata,Personal,High,0.09086279881498403,High
+2022,25,111641.0,Ransomware,Hyderabad,E-commerce,Medium,0.04018083618529596,Medium
+2023,18,106111.0,Ransomware,Mumbai,Personal,Medium,0.038190527749285115,Medium
+2019,25,450042.0,Hacking,Mumbai,Health,Critical,0.16197511558032412,Critical
+2021,12,430667.0,Malware,Hyderabad,Social Media,Critical,0.15500183783209442,Critical
+2022,15,139299.0,Identity Theft,Pune,Financial,Medium,0.05013525765422687,Medium
+2019,27,163982.0,Phishing,Kolkata,Social Media,Medium,0.059018943572139285,Medium
+2022,26,299185.0,Data Breach,Pune,Health,High,0.1076800053215017,High
+2024,9,352064.0,Online Fraud,Jaipur,Health,High,0.12671174488530232,High
+2022,13,328825.0,Ransomware,Jaipur,Financial,High,0.11834777060963217,High
+2021,26,235386.0,Online Fraud,Bangalore,E-commerce,Medium,0.08471803644102144,Medium
+2020,15,344715.0,Phishing,Lucknow,Corporate,High,0.12406675814095447,High
+2023,10,197553.0,Cyber Bullying,Mumbai,Health,Medium,0.07110151943205249,Medium
+2023,16,462792.0,Online Fraud,Bangalore,Corporate,Critical,0.1665639822275462,Critical
+2021,7,261337.0,Phishing,Chennai,Health,High,0.09405808964588896,High
+2022,17,128556.0,Data Breach,Hyderabad,Educational,Medium,0.04626873260394396,Medium
+2019,23,196246.0,Hacking,Hyderabad,Financial,Medium,0.07063111561182353,Medium
+2022,26,27160.0,Malware,Jaipur,Health,Low,0.009775185736357057,Low
+2021,21,247242.0,Data Breach,Kolkata,Educational,Medium,0.08898514255627361,Medium
+2023,22,18633.0,Ransomware,Pune,Social Media,Low,0.006706223704916827,Low
+2022,26,489096.0,Phishing,Mumbai,Government,Critical,0.17603108405409762,Critical
+2023,7,280158.0,Online Fraud,Bangalore,Educational,High,0.10083197663940796,High
+2019,14,343676.0,Ransomware,Pune,Personal,High,0.12369281049809455,High
+2023,15,50104.0,Malware,Bangalore,Health,Low,0.018032986234699337,Low
+2023,21,435837.0,Hacking,Lucknow,Educational,Critical,0.15686257826865432,Critical
+2020,7,340375.0,Cyber Bullying,Chennai,Corporate,High,0.122504743925351,High
+2020,9,69388.0,Ransomware,Chennai,Government,Low,0.024973512071956683,Low
+2024,19,17014.0,Cyber Bullying,Pune,E-commerce,Low,0.006123527618497016,Low
+2020,16,93578.0,Phishing,Pune,Health,Low,0.03367976181284318,Low
+2023,8,165827.0,Malware,Pune,Personal,Medium,0.05968297956932554,Medium
+2021,18,41390.0,Online Fraud,Bangalore,E-commerce,Low,0.014896720825766516,Low
+2023,27,286855.0,Malware,Lucknow,Educational,High,0.10324230134030572,High
+2021,23,92658.0,Malware,Delhi,E-commerce,Low,0.03334864359202402,Low
+2021,18,58993.0,Identity Theft,Pune,E-commerce,Low,0.021232236087809716,Low
+2020,20,206768.0,Malware,Kolkata,Government,Medium,0.07441810030688792,Medium
+2022,7,159285.0,Malware,Mumbai,Social Media,Medium,0.05732844109041362,Medium
+2019,3,247860.0,Data Breach,Mumbai,E-commerce,Medium,0.0892075676219978,Medium
+2020,18,499172.0,Ransomware,Bangalore,E-commerce,Critical,0.17965754839428663,Critical
+2020,27,452000.0,Online Fraud,Pune,Health,Critical,0.1626798215328936,Critical
+2022,10,270565.0,Data Breach,Jaipur,Social Media,High,0.09737934936514901,High
+2019,7,219008.0,Data Breach,Hyderabad,Government,Medium,0.07882341228822115,Medium
+2023,17,493289.0,Ransomware,Delhi,Personal,Critical,0.1775401913365919,Critical
+2024,14,18727.0,Ransomware,Kolkata,Educational,Low,0.006740055349217917,Low
+2024,24,375562.0,Phishing,Lucknow,Government,High,0.13516893613835526,High
+2023,3,5358.0,Ransomware,Jaipur,Government,Low,0.0019284037251620439,Low
+2020,12,328252.0,Identity Theft,Chennai,Financial,High,0.11814154154383934,High
+2019,28,258681.0,Identity Theft,Jaipur,Government,High,0.09310216573882842,High
+2020,13,95018.0,Data Breach,Bangalore,Social Media,Low,0.03419803381064709,Low
+2021,2,387601.0,Cyber Bullying,Delhi,Financial,High,0.1395019059866617,High
+2020,3,426333.0,Phishing,Ahmedabad,Educational,Critical,0.1534419830831485,Critical
+2020,5,482916.0,Cyber Bullying,Ahmedabad,E-commerce,Critical,0.17380683339685585,Critical
+2023,11,295054.0,Cyber Bullying,Pune,Health,High,0.10619321252780174,High
+2023,8,127888.0,Data Breach,Pune,Health,Medium,0.046028311982740475,Medium
+2023,26,230104.0,Hacking,Bangalore,Educational,Medium,0.08281698596018794,Medium
+2024,23,318898.0,Data Breach,Lucknow,Educational,High,0.11477493302477146,High
+2021,23,194510.0,Online Fraud,Pune,Social Media,Medium,0.07000630992558216,Medium
+2023,12,110847.0,Online Fraud,Hyderabad,Corporate,Medium,0.039895066764284635,Medium
+2019,7,423587.0,Ransomware,Delhi,E-commerce,Critical,0.15245366717622522,Critical
+2024,15,445717.0,Ransomware,Bangalore,Educational,Critical,0.16041850003136446,Critical
+2022,24,455162.0,Hacking,Mumbai,Government,Critical,0.16381786046140467,Critical
+2019,17,301611.0,Ransomware,Chennai,Social Media,High,0.10855314967335744,High
+2019,4,411841.0,Online Fraud,Bangalore,Health,Critical,0.1482261512830275,Critical
+2023,22,297037.0,Cyber Bullying,Bangalore,Personal,High,0.10690691625811087,High
+2022,25,77329.0,Data Breach,Ahmedabad,Social Media,Low,0.02783156619317949,Low
+2022,13,32007.0,Malware,Kolkata,Health,Low,0.011519674884520631,Low
+2024,18,485518.0,Identity Theft,Lucknow,Financial,Critical,0.17474332210399873,Critical
+2022,1,171604.0,Malware,Kolkata,Social Media,Medium,0.061762186049404144,Medium
+2021,16,317397.0,Malware,Hyderabad,Health,High,0.11423470644928281,High
+2023,13,13323.0,Online Fraud,Mumbai,Corporate,Low,0.0047950957130149146,Low
+2022,10,374479.0,Malware,Ahmedabad,Social Media,High,0.1347791524066736,High
+2024,12,113356.0,Data Breach,Mumbai,Social Media,Medium,0.04079808373823603,Medium
+2021,2,111944.0,Hacking,Hyderabad,E-commerce,Medium,0.04028988925150053,Medium
+2020,23,205451.0,Phishing,Kolkata,Educational,Medium,0.0739440973755631,Medium
+2020,3,408426.0,Ransomware,Bangalore,E-commerce,Critical,0.14699705484379116,Critical
+2021,10,279600.0,Phishing,Pune,Social Media,High,0.10063114624025896,High
+2024,2,32367.0,Cyber Bullying,Pune,Educational,Low,0.011649242883971608,Low
+2021,27,55624.0,Data Breach,Jaipur,Health,Low,0.02001969555961432,Low
+2023,23,404322.0,Data Breach,Chennai,Personal,Critical,0.14551997965005,Critical
+2023,13,235565.0,Identity Theft,Lucknow,Personal,Medium,0.08478246052963734,Medium
+2020,13,69008.0,Data Breach,Hyderabad,Social Media,Low,0.024836745850313986,Low
+2022,18,389070.0,Ransomware,Chennai,Corporate,High,0.1400306154066436,High
+2024,3,378539.0,Data Breach,Lucknow,Financial,High,0.13624039151159292,High
+2020,27,117492.0,Malware,Chennai,Health,Medium,0.042286676087483925,Medium
+2022,7,73240.0,Identity Theft,Kolkata,Educational,Low,0.026359889666082135,Low
+2022,14,327459.0,Ransomware,Lucknow,Social Media,High,0.11785613203393762,High
+2023,20,463465.0,Hacking,Kolkata,Health,Critical,0.16680620240429764,Critical
+2019,17,202659.0,Hacking,Bangalore,Social Media,Medium,0.07293922555759885,Medium
+2019,21,273900.0,Hacking,Ahmedabad,Corporate,High,0.09857965291561847,High
+2021,12,462227.0,Hacking,Kolkata,Government,Critical,0.1663606324506301,Critical
+2023,25,299522.0,Malware,Pune,Government,High,0.10780129536543219,High
+2022,16,136327.0,Data Breach,Chennai,Corporate,Medium,0.04906560183653713,Medium
+2024,24,408700.0,Phishing,Jaipur,Educational,Critical,0.14709567048781771,Critical
+2019,12,126703.0,Ransomware,Delhi,E-commerce,Medium,0.04560181731788101,Medium
+2022,15,319693.0,Malware,Lucknow,Corporate,High,0.11506106235689237,High
+2019,25,166575.0,Hacking,Hyderabad,Social Media,Medium,0.05995219307929591,Medium
+2019,10,336938.0,Cyber Bullying,Jaipur,Educational,High,0.12126772944170378,High
+2019,25,494948.0,Data Breach,Pune,Personal,Critical,0.17813728386739516,Critical
+2024,7,308257.0,Phishing,Kolkata,Corporate,High,0.11094511890766631,High
+2023,20,499946.0,Cyber Bullying,Ahmedabad,Educational,Critical,0.17993611959310624,Critical
+2024,5,75069.0,Identity Theft,Bangalore,Corporate,Low,0.02701816708551502,Low
+2020,1,230189.0,Cyber Bullying,Delhi,Corporate,Medium,0.08284757840450276,Medium
+2022,17,399465.0,Identity Theft,Mumbai,E-commerce,High,0.14377189139079058,High
+2023,3,252051.0,Identity Theft,Jaipur,E-commerce,High,0.09071595508227293,High
+2023,13,413417.0,Hacking,Ahmedabad,Social Media,Critical,0.1487933711917351,Critical
+2023,14,126541.0,Identity Theft,Mumbai,Educational,Medium,0.04554351171812807,Medium
+2023,24,190648.0,Online Fraud,Delhi,Educational,Medium,0.06861633322036083,Medium
+2024,18,257353.0,Ransomware,Hyderabad,Financial,High,0.09262420378529815,High
+2023,4,272830.0,Ransomware,Hyderabad,Corporate,High,0.09819454802836142,High
+2021,18,316507.0,Hacking,Chennai,Government,High,0.11391438556175122,High
+2022,5,360687.0,Online Fraud,Delhi,Corporate,High,0.12981525838326283,High
+2023,25,132733.0,Cyber Bullying,Delhi,Corporate,Medium,0.04777208130868488,Medium
+2022,16,176915.0,Malware,Mumbai,Educational,Medium,0.06367367395241563,Medium
+2021,1,96673.0,Cyber Bullying,Ahmedabad,Corporate,Low,0.034793686697011994,Low
+2021,21,455179.0,Data Breach,Lucknow,Health,Critical,0.16382397895026765,Critical
+2022,14,43828.0,Malware,Mumbai,Corporate,Low,0.0157741841109373,Low
+2019,15,311748.0,Identity Theft,Bangalore,Health,High,0.11220156859123123,High
+2020,9,273670.0,Phishing,Hyderabad,E-commerce,High,0.0984968733604137,High
+2019,15,332054.0,Malware,Hyderabad,Government,High,0.11950992358248551,High
+2019,17,26592.0,Phishing,Chennai,Social Media,Low,0.009570756226112183,Low
+2024,25,292126.0,Ransomware,Bangalore,Educational,High,0.1051393927989338,High
+2019,24,263351.0,Phishing,Hyderabad,Corporate,High,0.09478295062059526,High
+2023,4,233041.0,Ransomware,Mumbai,Health,Medium,0.08387404488904217,Medium
+2024,12,351877.0,Online Fraud,Bangalore,Health,High,0.12664444150780974,High
+2024,27,231008.0,Online Fraud,Mumbai,E-commerce,Medium,0.08314234560325372,Medium
+2021,26,125982.0,Hacking,Lucknow,Health,Medium,0.04534232140786947,Medium
+2019,5,257911.0,Hacking,Lucknow,Social Media,High,0.09282503418444717,High
+2021,5,69619.0,Identity Theft,Hyderabad,Personal,Low,0.02505665153827106,Low
+2022,11,161400.0,Malware,Hyderabad,Financial,Medium,0.05808965308718811,Medium
+2020,28,309623.0,Identity Theft,Ahmedabad,Social Media,High,0.11143675748336086,High
+2024,6,152175.0,Ransomware,Lucknow,Government,Medium,0.05476947310125682,Medium
+2022,7,171963.0,Identity Theft,Jaipur,Social Media,Medium,0.061891394137745526,Medium
+2022,24,142826.0,Phishing,Jaipur,E-commerce,Medium,0.051404664137736866,Medium
+2023,14,232055.0,Ransomware,Chennai,E-commerce,Medium,0.08351917253499032,Medium
+2020,24,344581.0,Hacking,Lucknow,Social Media,High,0.12401853005226991,High
+2022,11,99540.0,Online Fraud,Mumbai,Corporate,Low,0.0358255518481952,Low
+2022,13,336126.0,Hacking,Mumbai,Personal,High,0.1209754816207199,High
+2020,2,103747.0,Malware,Pune,Corporate,Medium,0.0373396978862237,Medium
+2020,25,187994.0,Ransomware,Bangalore,Corporate,Medium,0.06766112913551947,Medium
+2022,7,311375.0,Ransomware,Kolkata,Social Media,High,0.11206732174735563,High
+2020,20,30301.0,Phishing,Jaipur,Educational,Low,0.010905666531566834,Low
+2022,4,223724.0,Malware,Hyderabad,Educational,Medium,0.08052075308102896,Medium
+2022,27,194783.0,Online Fraud,Chennai,Educational,Medium,0.07010456565849914,Medium
+2023,8,173395.0,Cyber Bullying,Kolkata,Personal,Medium,0.06240678684667275,Medium
+2019,20,19752.0,Ransomware,Delhi,Corporate,Low,0.007108964236543615,Low
+2022,22,492128.0,Ransomware,Chennai,Financial,Critical,0.1771223345383625,Critical
+2021,21,214277.0,Phishing,Delhi,Government,Medium,0.07712067282876955,Medium
+2024,19,361596.0,Identity Theft,Lucknow,Educational,High,0.13014241758187653,High
+2019,13,145467.0,Data Breach,Delhi,Educational,Medium,0.05235518937815361,Medium
+2019,14,218029.0,Online Fraud,Delhi,E-commerce,Medium,0.0784710593119364,Medium
+2019,10,384381.0,Hacking,Ahmedabad,Corporate,High,0.13834299221379465,High
+2023,11,57273.0,Malware,Ahmedabad,Corporate,Low,0.02061318897932171,Low
+2022,2,259503.0,Ransomware,Ahmedabad,Personal,High,0.09339801267090815,High
+2023,25,92878.0,Ransomware,Lucknow,Personal,Low,0.033427824036132946,Low
+2022,26,268039.0,Hacking,Kolkata,Educational,High,0.09647021390233465,High
+2023,9,120968.0,Online Fraud,Chennai,Corporate,Medium,0.043537727104405025,Medium
+2023,17,378844.0,Data Breach,Chennai,Financial,High,0.13635016440001668,High
+2024,26,77559.0,Identity Theft,Hyderabad,Government,Low,0.02791434574838428,Low
+2021,3,11699.0,Ransomware,Ahmedabad,Social Media,Low,0.004210600071047173,Low
+2023,24,197133.0,Data Breach,Lucknow,Corporate,Medium,0.07095035676602635,Medium
+2024,6,10715.0,Online Fraud,Hyderabad,E-commerce,Low,0.003856447539214502,Low
+2020,5,20169.0,Hacking,Bangalore,Social Media,Low,0.007259047169240998,Low
+2021,5,119413.0,Phishing,Hyderabad,Corporate,Medium,0.04297806532899872,Medium
+2023,22,410379.0,Identity Theft,Kolkata,Health,Critical,0.1476999612408127,Critical
+2019,15,120264.0,Malware,Jaipur,Personal,Medium,0.04328434968325645,Medium
+2020,23,268926.0,Ransomware,Delhi,E-commerce,High,0.09678945505653748,High
+2020,17,220249.0,Online Fraud,Ahmedabad,Government,Medium,0.07927006197521742,Medium
+2024,9,125481.0,Phishing,Jaipur,Educational,Medium,0.04516200594196686,Medium
+2020,3,216400.0,Malware,Hyderabad,E-commerce,Medium,0.07788476411442073,Medium
+2021,20,36585.0,Cyber Bullying,Lucknow,Corporate,Low,0.013167347944205557,Low
+2023,26,293826.0,Online Fraud,Delhi,Educational,High,0.10575124168523008,High
+2023,17,179936.0,Online Fraud,Chennai,Corporate,Medium,0.0647609654144751,Medium
+2019,27,393136.0,Malware,Mumbai,Educational,High,0.14149401397822048,High
+2024,10,347560.0,Phishing,Delhi,Government,High,0.12509070524772675,High
+2019,3,449330.0,Cyber Bullying,Kolkata,Personal,Critical,0.16171885887029883,Critical
+2020,18,390954.0,Data Breach,Kolkata,Government,High,0.14070868793710373,High
+2019,18,39067.0,Data Breach,Hyderabad,Health,Low,0.014060647318198127,Low
+2021,17,174757.0,Hacking,Bangalore,Financial,Medium,0.06289698577792895,Medium
+2023,24,254334.0,Phishing,Kolkata,Personal,High,0.09153763214545788,High
+2020,3,19073.0,Identity Theft,Kolkata,Government,Low,0.00686458459313469,Low
+2019,3,37035.0,Ransomware,Lucknow,Health,Low,0.013329307943519279,Low
+2024,6,197049.0,Malware,Hyderabad,Financial,Medium,0.07092012423282112,Medium
+2021,13,234782.0,Hacking,Delhi,Health,Medium,0.08450065013083147,Medium
+2021,24,91373.0,Cyber Bullying,Bangalore,Corporate,Low,0.03288615781620594,Low
+2019,15,346506.0,Malware,Jaipur,Social Media,High,0.12471135893822308,High
+2023,25,91517.0,Malware,Mumbai,Corporate,Low,0.03293798501598633,Low
+2019,9,66450.0,Phishing,Ahmedabad,Educational,Low,0.023916093231992872,Low
+2020,4,11382.0,Ransomware,Chennai,Personal,Low,0.0040965082493083955,Low
+2019,14,398653.0,Identity Theft,Kolkata,Corporate,High,0.1434796435698067,High
+2021,5,203043.0,Data Breach,Hyderabad,E-commerce,Medium,0.07307743142367991,Medium
+2019,2,458828.0,Online Fraud,Ahmedabad,Health,Critical,0.1651372945891471,Critical
+2023,11,222427.0,Online Fraud,Chennai,Personal,Medium,0.08005394837189585,Medium
+2024,9,62929.0,Malware,Chennai,Social Media,Low,0.022648846215140402,Low
+2022,24,234483.0,Data Breach,Jaipur,E-commerce,Medium,0.08439303670906524,Medium
+2019,3,229590.0,Data Breach,Jaipur,Corporate,Medium,0.08263199164986071,Medium
+2023,27,362008.0,Ransomware,Jaipur,Educational,High,0.13029070095902598,High
+2023,28,144401.0,Cyber Bullying,Pune,Government,Medium,0.05197152413533488,Medium
+2024,9,257677.0,Cyber Bullying,Pune,Educational,High,0.09274081498480403,High
+2021,3,288313.0,Hacking,Chennai,E-commerce,High,0.10376705173808219,High
+2023,25,88468.0,Phishing,Jaipur,Financial,Low,0.03184061604285847,Low
+2023,2,35594.0,Ransomware,Lucknow,Corporate,Low,0.012810676034605785,Low
+2023,12,471173.0,Ransomware,Kolkata,E-commerce,Critical,0.1695803972369869,Critical
+2023,10,192703.0,Phishing,Ahmedabad,Financial,Medium,0.06935595055056017,Medium
+2020,9,46033.0,Data Breach,Ahmedabad,Financial,Low,0.01656778810757454,Low
+2020,15,64133.0,Cyber Bullying,Pune,Health,Low,0.023082179191082002,Low
+2021,8,467381.0,Cyber Bullying,Chennai,Personal,Critical,0.1682156143094366,Critical
+2019,25,74861.0,Data Breach,Hyderabad,Health,Low,0.026943305574721122,Low
+2023,5,184362.0,Cyber Bullying,Delhi,Corporate,Medium,0.06635393198550293,Medium
+2024,11,488247.0,Malware,Delhi,Financial,Critical,0.17572551952205906,Critical
+2019,27,294894.0,Ransomware,Pune,Social Media,High,0.10613562675026798,High
+2024,2,489371.0,Online Fraud,Hyderabad,E-commerce,Critical,0.17613005960923378,Critical
+2019,24,41461.0,Phishing,Pune,Government,Low,0.014922274514547128,Low
+2021,28,468016.0,Cyber Bullying,Delhi,Financial,Critical,0.16844415786402372,Critical
+2023,15,79222.0,Hacking,Hyderabad,E-commerce,Low,0.028512877923625873,Low
+2023,6,113020.0,Cyber Bullying,Jaipur,Social Media,Medium,0.04067715360541512,Medium
+2022,8,287370.0,Cyber Bullying,Chennai,Government,High,0.10342765556174255,High
+2024,27,269865.0,Identity Theft,Ahmedabad,Health,High,0.09712741158843878,High
+2019,5,450370.0,Malware,Lucknow,Health,Critical,0.16209316642426833,Critical
+2019,16,21609.0,Phishing,Bangalore,Personal,Low,0.007777319167044906,Low
+2020,26,446346.0,Identity Theft,Chennai,E-commerce,Critical,0.16064488411929406,Critical
+2022,18,131513.0,Identity Theft,Jaipur,Financial,Medium,0.0473329897549899,Medium
+2020,6,204981.0,Hacking,Delhi,Educational,Medium,0.07377493915405765,Medium
+2020,5,105211.0,Ransomware,Jaipur,Health,Medium,0.03786660775065767,Medium
+2020,28,187321.0,Hacking,Pune,Health,Medium,0.06741890895876805,Medium
+2024,16,443111.0,Ransomware,Hyderabad,Personal,Critical,0.15948057167978322,Critical
+2024,13,488689.0,Ransomware,Ahmedabad,Government,Critical,0.1758846002324961,Critical
+2021,28,399872.0,Phishing,Kolkata,Personal,High,0.1439183752123921,High
+2021,5,388009.0,Cyber Bullying,Pune,Social Media,High,0.1396487497193728,High
+2020,13,337664.0,Phishing,Chennai,Financial,High,0.12152902490726322,High
+2022,17,457956.0,Malware,Pune,E-commerce,Critical,0.1648234521015881,Critical
+2019,18,327453.0,Ransomware,Chennai,Corporate,High,0.11785397256728011,High
+2024,8,30984.0,Identity Theft,Kolkata,Corporate,Low,0.011151485819414103,Low
+2022,13,119947.0,Cyber Bullying,Mumbai,E-commerce,Medium,0.04317025786151767,Medium
+2023,19,205894.0,Online Fraud,Ahmedabad,Government,Medium,0.07410353799710971,Medium
+2024,26,6901.0,Malware,Lucknow,Social Media,Low,0.0024837465672533157,Low
+2024,3,163624.0,Phishing,Lucknow,Health,Medium,0.058890095394907485,Medium
+2021,24,223317.0,Hacking,Bangalore,Government,Medium,0.08037426925942744,Medium
+2019,8,294199.0,Malware,Jaipur,Health,High,0.10588548852910568,High
+2019,2,169757.0,Malware,Mumbai,Health,Medium,0.061097430229998716,Medium
+2023,8,468181.0,Cyber Bullying,Lucknow,Corporate,Critical,0.16850354319710542,Critical
+2023,27,146788.0,Malware,Pune,Government,Medium,0.05283063195391678,Medium
+2024,13,115099.0,Malware,Jaipur,Social Media,Medium,0.04142540880224452,Medium
+2020,13,12138.0,Online Fraud,Mumbai,Personal,Low,0.004368601048155447,Low
+2021,1,167370.0,Data Breach,Hyderabad,Health,Medium,0.060238322411416814,Medium
+2021,6,445328.0,Hacking,Hyderabad,Educational,Critical,0.16027849460973548,Critical
+2024,24,24429.0,Hacking,Jaipur,Educational,Low,0.008792268496077562,Low
+2022,19,51200.0,Hacking,Chennai,Personal,Low,0.018427448810805644,Low
+2020,16,203380.0,Ransomware,Chennai,Educational,Medium,0.07319872146761039,Medium
+2024,8,442460.0,Identity Theft,Pune,Financial,Critical,0.1592462695474427,Critical
+2020,28,249289.0,Data Breach,Mumbai,Health,Medium,0.08972188059759625,Medium
+2020,1,246127.0,Hacking,Mumbai,Personal,Medium,0.08858384166908517,Medium
+2020,27,364412.0,Malware,Jaipur,Government,High,0.13115592726647085,High
+2024,27,237513.0,Malware,Delhi,Health,Medium,0.08548356737111097,Medium
+2021,16,18347.0,Hacking,Hyderabad,Personal,Low,0.006603289127575219,Low
+2021,9,148992.0,Cyber Bullying,Mumbai,Corporate,Medium,0.053623876039444435,Medium
+2020,13,32822.0,Hacking,Jaipur,Social Media,Low,0.011813002438833261,Low
+2022,11,440875.0,Malware,Kolkata,Government,Critical,0.15867581043874882,Critical
+2019,13,41108.0,Ransomware,Bangalore,Social Media,Low,0.014795225892863252,Low
+2024,25,392099.0,Phishing,Kolkata,Corporate,High,0.14112078615757975,High
+2019,21,483315.0,Phishing,Ahmedabad,Health,Critical,0.17395043792958068,Critical
+2022,10,8967.0,Data Breach,Pune,Government,Low,0.0032273229196580905,Low
+2024,4,373863.0,Data Breach,Mumbai,Social Media,High,0.1345574471631686,High
+2020,27,12871.0,Hacking,Ahmedabad,Educational,Low,0.004632415891482021,Low
+2021,6,226371.0,Online Fraud,Lucknow,Social Media,Medium,0.08147343778810323,Medium
+2019,28,209524.0,Hacking,Ahmedabad,Personal,Medium,0.07541001532490707,Medium
+2023,7,206342.0,Cyber Bullying,Jaipur,Health,Medium,0.07426477817420427,Medium
+2023,5,165685.0,Hacking,Mumbai,Financial,Medium,0.05963187219176433,Medium
+2022,11,29179.0,Data Breach,Bangalore,Social Media,Low,0.010501846266611287,Low
+2020,13,252537.0,Phishing,Jaipur,Government,High,0.09089087188153175,High
+2019,26,184260.0,Malware,Jaipur,Government,Medium,0.06631722105232515,Medium
+2020,25,318243.0,Hacking,Pune,E-commerce,High,0.1145391912479926,High
+2019,19,36262.0,Malware,Pune,Social Media,Low,0.013051096655809264,Low
+2022,23,341357.0,Malware,Hyderabad,Health,High,0.12285817663496451,High
+2022,10,380551.0,Online Fraud,Hyderabad,Health,High,0.13696453266408007,High
+2023,10,412484.0,Malware,Chennai,Corporate,Critical,0.14845757412649133,Critical
+2020,11,472082.0,Phishing,Delhi,E-commerce,Critical,0.16990755643560063,Critical
+2024,21,349413.0,Ransomware,Mumbai,Social Media,High,0.12575762053378972,High
+2023,7,61545.0,Ransomware,Mumbai,Educational,Low,0.02215072923947331,Low
+2020,18,235555.0,Identity Theft,Ahmedabad,Corporate,Medium,0.08477886141854148,Medium
+2023,4,224894.0,Cyber Bullying,Mumbai,E-commerce,Medium,0.08094184907924463,Medium
+2024,2,204218.0,Hacking,Mumbai,Social Media,Medium,0.0735003269774435,Medium
+2021,14,466182.0,Cyber Bullying,Delhi,Social Media,Critical,0.16778408088904292,Critical
+2021,13,303066.0,Phishing,Lucknow,Corporate,High,0.10907682033780516,High
+2021,12,473580.0,Malware,Hyderabad,Educational,Critical,0.1704467032777605,Critical
+2021,7,43913.0,Ransomware,Hyderabad,E-commerce,Low,0.015804776555252118,Low
+2019,2,360177.0,Cyber Bullying,Bangalore,Social Media,High,0.12963170371737393,High
+2021,13,367936.0,Phishing,Mumbai,Social Media,High,0.13242425401665206,High
+2024,14,251497.0,Ransomware,Delhi,E-commerce,High,0.09051656432756225,High
+2022,27,449893.0,Malware,Hyderabad,Financial,Critical,0.1619214888249958,Critical
+2022,17,496370.0,Cyber Bullying,Delhi,Corporate,Critical,0.1786490774652265,Critical
+2019,9,444057.0,Ransomware,Kolkata,Corporate,Critical,0.15982104758945162,Critical
+2021,17,178404.0,Hacking,Lucknow,Government,Medium,0.06420958159458927,Medium
+2021,8,486278.0,Data Breach,Mumbai,Educational,Critical,0.17501685454728413,Critical
+2021,2,383007.0,Hacking,Bangalore,Personal,High,0.1378484743492234,High
+2023,28,489910.0,Identity Theft,Ahmedabad,Financial,Critical,0.17632405169730067,Critical
+2020,24,157104.0,Identity Theft,Hyderabad,E-commerce,Medium,0.056543474960406445,Medium
+2023,13,169918.0,Ransomware,Kolkata,E-commerce,Medium,0.06115537591864207,Medium
+2020,3,191546.0,Data Breach,Delhi,E-commerce,Medium,0.0689395333967691,Medium
+2021,16,45936.0,Phishing,Pune,Financial,Low,0.01653287672994469,Low
+2021,6,161866.0,Hacking,Jaipur,Social Media,Medium,0.058257371664255216,Medium
+2023,19,193660.0,Phishing,Mumbai,E-commerce,Medium,0.06970038548243401,Medium
+2023,7,203056.0,Data Breach,Mumbai,E-commerce,Medium,0.07308211026810452,Medium
+2020,10,444547.0,Phishing,Kolkata,Educational,Critical,0.15999740403314877,Critical
+2022,9,226469.0,Data Breach,Delhi,Health,Medium,0.08150870907684266,Medium
+2020,2,29141.0,Ransomware,Chennai,Health,Low,0.010488169644447019,Low
+2023,28,403290.0,Phishing,Mumbai,Government,Critical,0.1451485513849572,Critical
+2024,28,138478.0,Hacking,Chennai,Government,Medium,0.04983977063325672,Medium
+2023,15,98359.0,Malware,Pune,E-commerce,Low,0.035400496827774075,Low
+2024,5,386423.0,Identity Theft,Kolkata,Educational,High,0.13907793069956934,High
+2019,22,155363.0,Malware,Delhi,E-commerce,Medium,0.05591686971861714,Medium
+2023,4,42568.0,Phishing,Delhi,Government,Low,0.015320696112858882,Low
+2019,20,98539.0,Malware,Lucknow,Financial,Low,0.035465280827499564,Low
+2022,4,47851.0,Hacking,Jaipur,Financial,Low,0.017222106504801972,Low
+2020,18,494158.0,Hacking,Hyderabad,Social Media,Critical,0.1778529540908222,Critical
+2024,4,55823.0,Phishing,Hyderabad,Personal,Low,0.020091317870421944,Low
+2020,27,24312.0,Ransomware,Ahmedabad,Health,Low,0.008750158896255992,Low
+2019,17,437324.0,Malware,Bangalore,Educational,Critical,0.15739776608860875,Critical
+2024,12,461134.0,Ransomware,Kolkata,Corporate,Critical,0.16596724960785256,Critical
+2020,22,428387.0,Ransomware,Pune,Health,Critical,0.15418124050223825,Critical
+2023,17,435995.0,Data Breach,Delhi,Corporate,Critical,0.1569194442239689,Critical
+2021,10,200900.0,Online Fraud,Jaipur,Personal,Medium,0.07230614191583701,Medium
+2019,22,361867.0,Phishing,Chennai,Personal,High,0.13023995349257436,High
+2020,1,275555.0,Identity Theft,Kolkata,E-commerce,High,0.09917530580198339,High
+2019,22,497037.0,Hacking,Ahmedabad,Government,Critical,0.17888913817532043,Critical
+2019,26,250062.0,Hacking,Kolkata,Personal,High,0.09000009188530628,High
+2024,24,320153.0,Phishing,Ahmedabad,Personal,High,0.11522662146730195,High
+2024,27,409638.0,Data Breach,Delhi,Corporate,Critical,0.14743326710860943,Critical
+2021,18,436684.0,Cyber Bullying,Bangalore,Government,Critical,0.1571674229784737,Critical
+2023,18,33371.0,Cyber Bullying,Ahmedabad,Personal,Low,0.012010593637996,Low
+2019,14,58022.0,Cyber Bullying,Delhi,Health,Low,0.020882762400401666,Low
+2020,15,334373.0,Data Breach,Delhi,Social Media,High,0.12034455744561554,High
+2022,12,100071.0,Identity Theft,Bangalore,Personal,Medium,0.036016664647385385,Medium
+2019,4,183268.0,Hacking,Hyderabad,Social Media,Medium,0.0659601892316158,Medium
+2019,27,474570.0,Phishing,Kolkata,Government,Critical,0.1708030152762507,Critical
+2021,3,359918.0,Data Breach,Mumbai,E-commerce,High,0.12953848673999113,High
+2023,20,490626.0,Hacking,Mumbai,Educational,Critical,0.17658174805176427,Critical
+2022,12,289859.0,Ransomware,Chennai,Government,High,0.10432347431350221,High
+2024,7,290749.0,Malware,Chennai,Corporate,High,0.10464379520103381,High
+2024,11,100853.0,Malware,Mumbai,Educational,Medium,0.036298115135081674,Medium
+2020,1,32174.0,Data Breach,Pune,Health,Low,0.011579780039821502,Low
+2022,6,404172.0,Hacking,Mumbai,Financial,Critical,0.1454659929836121,Critical
+2024,15,498660.0,Online Fraud,Chennai,Social Media,Critical,0.17947327390617857,Critical
+2020,15,77373.0,Identity Theft,Jaipur,Social Media,Low,0.02784740228200127,Low
+2023,19,332396.0,Cyber Bullying,Chennai,Social Media,High,0.11963301318196394,High
+2020,11,194021.0,Identity Theft,Pune,Government,Medium,0.06983031339299457,Medium
+2024,26,194718.0,Identity Theft,Kolkata,Social Media,Medium,0.07008117143637604,Medium
+2021,23,71017.0,Data Breach,Mumbai,E-commerce,Low,0.025559807269472355,Low
+2021,26,64037.0,Ransomware,Bangalore,Social Media,Low,0.02304762772456174,Low
+2021,2,90818.0,Identity Theft,Jaipur,Corporate,Low,0.03268640715038569,Low
+2024,14,7548.0,Malware,Delhi,Health,Low,0.0027166090551554887,Low
+2021,2,117981.0,Ransomware,Pune,Social Media,Medium,0.0424626726200715,Medium
+2022,4,235213.0,Phishing,Chennai,Social Media,Medium,0.08465577181906304,Medium
+2023,17,205366.0,Identity Theft,Bangalore,Educational,Medium,0.07391350493124828,Medium
+2020,3,155249.0,Identity Theft,Ahmedabad,Health,Medium,0.055875839852124326,Medium
+2020,13,287166.0,Phishing,Hyderabad,Social Media,High,0.10335423369538699,High
+2024,9,107297.0,Identity Theft,Mumbai,Government,Medium,0.03861738232525417,Medium
+2021,7,137614.0,Phishing,Hyderabad,Personal,Medium,0.04952880743457437,Medium
+2021,15,223084.0,Ransomware,Pune,E-commerce,Medium,0.08029040997089389,Medium
+2019,23,490536.0,Malware,Ahmedabad,Government,Critical,0.17654935605190153,Critical
+2023,11,61428.0,Phishing,Ahmedabad,Financial,Low,0.022108619639651744,Low
+2022,20,154812.0,Online Fraud,Ahmedabad,Government,Medium,0.05571855869723523,Medium
+2020,2,322497.0,Data Breach,Delhi,Educational,High,0.11607025310817166,High
+2019,15,484569.0,Data Breach,Pune,Educational,Critical,0.17440176646100158,Critical
+2019,14,114132.0,Phishing,Kolkata,Social Media,Medium,0.0410773747592748,Medium
+2024,20,188604.0,Data Breach,Hyderabad,Government,Medium,0.06788067491236696,Medium
+2020,22,17052.0,Identity Theft,Kolkata,Educational,Low,0.006137204240661287,Low
+2024,11,101689.0,Cyber Bullying,Bangalore,Personal,Medium,0.03659900082269561,Medium
+2022,27,179148.0,Cyber Bullying,Lucknow,Health,Medium,0.06447735546012129,Medium
+2019,3,447636.0,Data Breach,Jaipur,Government,Critical,0.16110916945066006,Critical
+2019,17,132743.0,Ransomware,Jaipur,E-commerce,Medium,0.04777568041978074,Medium
+2023,12,263307.0,Hacking,Kolkata,Personal,High,0.09476711453177349,High
+2022,24,304568.0,Ransomware,Lucknow,Social Media,High,0.10961740682440341,High
+2019,28,447960.0,Hacking,Lucknow,Health,Critical,0.16122578065016596,Critical
+2022,21,464547.0,Cyber Bullying,Mumbai,E-commerce,Critical,0.16719562622486975,Critical
+2020,15,404850.0,Cyber Bullying,Bangalore,Social Media,Critical,0.14571001271591144,Critical
+2021,16,136870.0,Phishing,Pune,E-commerce,Medium,0.04926103356904236,Medium
+2019,5,285564.0,Malware,Lucknow,Social Media,High,0.10277765609783013,High
+2023,27,121575.0,Online Fraud,Chennai,E-commerce,Medium,0.04375619314792376,Medium
+2020,20,259230.0,Ransomware,Jaipur,Health,High,0.09329975693799117,High
+2022,6,292444.0,Identity Theft,Chennai,Personal,High,0.10525384453178215,High
+2024,19,353025.0,Hacking,Bangalore,E-commerce,High,0.1270576194616145,High
+2020,25,11749.0,Data Breach,Lucknow,E-commerce,Low,0.004228595626526476,Low
+2019,5,105131.0,Identity Theft,Hyderabad,Corporate,Medium,0.037837814861890785,Medium
+2022,3,157193.0,Malware,Jaipur,Government,Medium,0.05657550704915961,Medium
+2021,27,391707.0,Hacking,Mumbai,Health,High,0.140979701002622,High
+2020,1,300631.0,Ransomware,Mumbai,Social Media,High,0.10820043678596314,High
+2019,26,226019.0,Phishing,Ahmedabad,Health,Medium,0.08134674907752894,Medium
+2023,28,427577.0,Identity Theft,Delhi,Educational,Critical,0.15388971250347355,Critical
+2024,6,284367.0,Malware,Lucknow,Social Media,High,0.10234684249965564,High
+2022,15,73930.0,Ransomware,Bangalore,Health,Low,0.02660822833169651,Low
+2020,2,146128.0,Cyber Bullying,Jaipur,Personal,Medium,0.05259309062158999,Medium
+2020,3,291524.0,Cyber Bullying,Delhi,Social Media,High,0.10492272631096299,High
+2021,17,289179.0,Ransomware,Bangalore,Social Media,High,0.10407873475898372,High
+2021,25,293764.0,Ransomware,Kolkata,Health,High,0.10572892719643574,High
+2023,24,414093.0,Ransomware,Lucknow,Social Media,Critical,0.14903667110181526,Critical
+2024,12,257553.0,Hacking,Pune,Corporate,High,0.09269618600721535,High
+2023,18,449532.0,Ransomware,Pune,Government,Critical,0.16179156091443522,Critical
+2019,15,196113.0,Identity Theft,Lucknow,Social Media,Medium,0.07058324743424858,Medium
+2019,12,380504.0,Malware,Ahmedabad,Government,High,0.13694761684192952,High
+2023,16,54352.0,Hacking,Ahmedabad,Health,Low,0.019561888628220867,Low
+2020,26,64440.0,Ransomware,Mumbai,Financial,Low,0.02319267190172492,Low
+2020,9,288239.0,Malware_Attacks,Mumbai,Financial,High,0.10374041831597283,High
+2020,1,275987.0,Malware_Attacks,Mumbai,Financial,High,0.09933078740132456,High
+2020,17,271723.0,Ransomware,Mumbai,Financial,High,0.09779612643004965,High
+2020,16,27990.0,Malware_Attacks,Mumbai,Financial,Low,0.010073911957313476,Low
+2020,21,105931.0,Malware_Attacks,Mumbai,Financial,Medium,0.038125743749559626,Medium
+2020,17,48172.0,Phishing,Mumbai,Financial,Low,0.017337637970979095,Low
+2020,6,287053.0,Others,Mumbai,Financial,High,0.10331356374000376,High
+2020,1,39326.0,Online Fraud,Mumbai,Financial,Low,0.014153864295580914,Low
+2020,22,116765.0,Ransomware,Mumbai,Financial,Medium,0.04202502071081487,Medium
+2020,27,59487.0,Online Fraud,Mumbai,Financial,Low,0.021410032175945223,Low
+2020,18,233189.0,Phishing,Mumbai,Financial,Medium,0.0839273117332609,Medium
+2020,24,85611.0,Phishing,Mumbai,Financial,Low,0.030812350002771133,Low
+2020,15,178914.0,Phishing,Mumbai,Financial,Medium,0.06439313626047816,Medium
+2020,3,43403.0,Phishing,Mumbai,Financial,Low,0.01562122188936323,Low
+2020,6,137072.0,Others,Mumbai,Financial,Medium,0.04933373561317874,Medium
+2020,3,124351.0,Malware_Attacks,Mumbai,Financial,Medium,0.04475530638813463,Medium
+2020,14,208440.0,Ransomware,Mumbai,Financial,Medium,0.0750198716821158,Medium
+2020,21,217047.0,Ransomware,Mumbai,Financial,Medium,0.07811762660232291,Medium
+2020,11,13855.0,Ransomware,Mumbai,Financial,Low,0.004986568423314692,Low
+2020,22,67026.0,Others,Mumbai,Financial,Low,0.024123402031114436,Low
+2020,1,38154.0,Others,Mumbai,Financial,Low,0.013732048475146067,Low
+2020,2,43057.0,Malware_Attacks,Mumbai,Financial,Low,0.015496692645446458,Low
+2020,17,60645.0,Malware_Attacks,Mumbai,Financial,Low,0.021826809240845867,Low
+2020,26,162994.0,Others,Mumbai,Financial,Medium,0.05866335139586827,Medium
+2020,3,152596.0,Ransomware,Mumbai,Financial,Medium,0.054920995678392544,Medium
+2020,13,212153.0,Phishing,Mumbai,Financial,Medium,0.0763562216320088,Medium
+2020,16,86958.0,Others,Mumbai,Financial,Low,0.03129715026738354,Low
+2020,8,76503.0,Ransomware,Mumbai,Financial,Low,0.02753427961666141,Low
+2020,26,291116.0,Malware_Attacks,Mumbai,Financial,High,0.10477588257825188,High
+2020,21,80537.0,Malware_Attacks,Mumbai,Financial,Low,0.02898616103273153,Low
+2020,22,200627.0,Phishing,Mumbai,Financial,Medium,0.07220788618292,Medium
+2020,18,296016.0,Online Fraud,Mumbai,Financial,High,0.10653944701522351,High
+2020,4,26901.0,Phishing,Mumbai,Financial,Low,0.009681968758974271,Low
+2020,19,211612.0,Others,Mumbai,Financial,Medium,0.07616150972172274,Medium
+2020,18,49630.0,Malware_Attacks,Mumbai,Financial,Low,0.01786238836875555,Low
+2020,7,185277.0,Online Fraud,Mumbai,Financial,Medium,0.06668325065077417,Medium
+2020,14,273725.0,Online Fraud,Mumbai,Financial,High,0.09851666847144093,High
+2020,6,101465.0,Online Fraud,Mumbai,Financial,Medium,0.036518380734148335,Medium
+2020,20,137509.0,Online Fraud,Mumbai,Financial,Medium,0.049491016768067844,Medium
+2021,4,100083.0,Others,Bangalore,Corporate,Medium,0.03602098358070042,Medium
+2021,28,33515.0,Others,Bangalore,Corporate,Low,0.01206242083777639,Low
+2021,15,293182.0,Phishing,Bangalore,Corporate,High,0.10551945893065666,High
+2021,10,40317.0,Malware_Attacks,Bangalore,Corporate,Low,0.014510536205180688,Low
+2021,4,108503.0,Others,Bangalore,Corporate,Medium,0.03905143512341494,Medium
+2021,16,178461.0,Malware_Attacks,Bangalore,Corporate,Medium,0.06423009652783568,Medium
+2021,5,127962.0,Phishing,Bangalore,Corporate,Medium,0.04605494540484984,Medium
+2021,10,41599.0,Online Fraud,Bangalore,Corporate,Low,0.014971942247670001,Low
+2021,11,259731.0,Ransomware,Bangalore,Corporate,High,0.09348007240389378,High
+2021,11,165261.0,Others,Bangalore,Corporate,Medium,0.05947926988129984,Medium
+2021,5,196099.0,Malware_Attacks,Bangalore,Corporate,Medium,0.07057820867871438,Medium
+2021,14,93415.0,Phishing,Bangalore,Corporate,Low,0.03362109630198065,Low
+2021,11,134066.0,Online Fraud,Bangalore,Corporate,Medium,0.04825184281776308,Medium
+2021,23,233654.0,Malware_Attacks,Bangalore,Corporate,Medium,0.0840946703992184,Medium
+2021,27,193474.0,Online Fraud,Bangalore,Corporate,Medium,0.06963344201605101,Medium
+2021,22,178834.0,Ransomware,Bangalore,Corporate,Medium,0.06436434337171126,Medium
+2021,15,238495.0,Malware_Attacks,Bangalore,Corporate,Medium,0.08583700008072445,Medium
+2021,25,165155.0,Ransomware,Bangalore,Corporate,Medium,0.05944111930368372,Medium
+2021,18,62059.0,Online Fraud,Bangalore,Corporate,Low,0.022335723549800537,Low
+2021,21,47977.0,Malware_Attacks,Bangalore,Corporate,Low,0.017267455304609814,Low
+2021,28,78401.0,Others,Bangalore,Corporate,Low,0.02821739090265573,Low
+2021,7,143010.0,Phishing,Bangalore,Corporate,Medium,0.0514708877819007,Medium
+2021,24,44531.0,Phishing,Bangalore,Corporate,Low,0.016027201620976293,Low
+2021,28,270907.0,Phishing,Bangalore,Corporate,High,0.09750243896462744,High
+2021,27,217407.0,Others,Bangalore,Corporate,Medium,0.07824719460177389,Medium
+2021,7,24218.0,Others,Bangalore,Corporate,Low,0.008716327251954904,Low
+2021,9,289934.0,Others,Bangalore,Corporate,High,0.10435046764672117,High
+2021,16,82926.0,Malware_Attacks,Bangalore,Corporate,Low,0.029845988673532595,Low
+2021,13,122076.0,Others,Bangalore,Corporate,Medium,0.043936508613826364,Medium
+2021,24,157567.0,Online Fraud,Bangalore,Corporate,Medium,0.05671011380414479,Medium
+2021,15,267732.0,Others,Bangalore,Corporate,High,0.09635972119169174,High
+2021,3,213029.0,Malware_Attacks,Bangalore,Corporate,Medium,0.07667150376400617,Medium
+2021,17,10553.0,Online Fraud,Bangalore,Corporate,Low,0.003798141939461562,Low
+2021,28,91949.0,Others,Bangalore,Corporate,Low,0.033093466615327506,Low
+2021,5,238948.0,Online Fraud,Bangalore,Corporate,Medium,0.08600003981336694,Medium
+2021,6,81650.0,Ransomware,Bangalore,Corporate,Low,0.0293867420977008,Low
+2021,12,26191.0,Online Fraud,Bangalore,Corporate,Low,0.009426431871168177,Low
+2021,25,260664.0,Online Fraud,Bangalore,Corporate,High,0.09381586946913756,High
+2021,3,143599.0,Malware_Attacks,Bangalore,Corporate,Medium,0.051682875425446875,Medium
+2021,8,27443.0,Online Fraud,Bangalore,Corporate,Low,0.009877040580369909,Low
+2022,17,194399.0,Ransomware,Delhi,Personal,Medium,0.0699663597924181,Medium
+2022,16,243364.0,Phishing,Delhi,Personal,Medium,0.08758940727329893,Medium
+2022,2,174906.0,Phishing,Delhi,Personal,Medium,0.06295061253325727,Medium
+2022,23,278349.0,Malware_Attacks,Delhi,Personal,High,0.1001808974421668,High
+2022,27,143053.0,Others,Delhi,Personal,Medium,0.051486363959612896,Medium
+2022,18,96147.0,Ransomware,Delhi,Personal,Low,0.03460437345336974,Low
+2022,21,203452.0,Malware_Attacks,Delhi,Personal,Medium,0.0732246350675006,Medium
+2022,19,45809.0,Others,Delhi,Personal,Low,0.016487168019027262,Low
+2022,9,202304.0,Online Fraud,Delhi,Personal,Medium,0.07281145711369581,Medium
+2022,17,217778.0,Malware_Attacks,Delhi,Personal,Medium,0.07838072162343031,Medium
+2022,27,185896.0,Ransomware,Delhi,Personal,Medium,0.06690603562760794,Medium
+2022,26,257764.0,Others,Delhi,Personal,High,0.09277212725133802,High
+2022,1,268107.0,Online Fraud,Delhi,Personal,High,0.09649468785778652,High
+2022,15,91825.0,Online Fraud,Delhi,Personal,Low,0.03304883763773884,Low
+2022,3,274767.0,Malware_Attacks,Delhi,Personal,High,0.09889169584762958,High
+2022,7,83769.0,Online Fraud,Delhi,Personal,Low,0.03014939373891364,Low
+2022,6,194909.0,Others,Delhi,Personal,Medium,0.07014991445830698,Medium
+2022,23,67039.0,Online Fraud,Delhi,Personal,Low,0.024128080875539058,Low
+2022,14,178132.0,Phishing,Delhi,Personal,Medium,0.06411168577278187,Medium
+2022,16,256036.0,Ransomware,Delhi,Personal,High,0.09215020085397332,High
+2022,7,89539.0,Ransomware,Delhi,Personal,Low,0.03222608084122513,Low
+2022,1,132753.0,Phishing,Delhi,Personal,Medium,0.0477792795308766,Medium
+2022,5,89478.0,Online Fraud,Delhi,Personal,Low,0.032204126263540384,Low
+2022,21,273772.0,Phishing,Delhi,Personal,High,0.09853358429359148,High
+2022,19,81999.0,Phishing,Delhi,Personal,Low,0.02951235107494633,Low
+2022,6,140402.0,Online Fraud,Delhi,Personal,Medium,0.05053223960810027,Medium
+2022,17,217575.0,Others,Delhi,Personal,Medium,0.07830765966818434,Medium
+2022,19,14762.0,Malware_Attacks,Delhi,Personal,Low,0.005313007799709238,Low
+2022,3,118557.0,Ransomware,Delhi,Personal,Medium,0.042669981419193065,Medium
+2022,20,252156.0,Ransomware,Delhi,Personal,High,0.09075374574877947,High
+2022,6,120009.0,Ransomware,Delhi,Personal,Medium,0.04319257235031201,Medium
+2022,20,79822.0,Others,Delhi,Personal,Low,0.0287288245893775,Low
+2022,27,100359.0,Others,Delhi,Personal,Medium,0.03612031904694617,Medium
+2022,22,272808.0,Malware_Attacks,Delhi,Personal,High,0.09818662998395053,High
+2022,6,184658.0,Ransomware,Delhi,Personal,Medium,0.06646046567394041,Medium
+2022,20,41093.0,Online Fraud,Delhi,Personal,Low,0.01478982722621946,Low
+2022,13,207093.0,Online Fraud,Delhi,Personal,Medium,0.07453507141750339,Medium
+2022,4,13683.0,Online Fraud,Delhi,Personal,Low,0.004924663712465891,Low
+2022,17,269429.0,Ransomware,Delhi,Personal,High,0.09697049034465927,High
+2022,27,83413.0,Others,Delhi,Personal,Low,0.030021265383901,Low
+2023,4,98020.0,Ransomware,Lucknow,Government,Low,0.0352784869616244,Low
+2023,20,25466.0,Others,Lucknow,Government,Low,0.009165496316718293,Low
+2023,17,66612.0,Phishing,Lucknow,Government,Low,0.023974398831745816,Low
+2023,16,73329.0,Others,Lucknow,Government,Low,0.026391921754835297,Low
+2023,18,5629.0,Ransomware,Lucknow,Government,Low,0.002025939635859863,Low
+2023,17,225559.0,Malware_Attacks,Lucknow,Government,Medium,0.08118118996711936,Medium
+2023,28,27774.0,Others,Lucknow,Government,Low,0.009996171157642892,Low
+2023,14,125316.0,Ransomware,Lucknow,Government,Medium,0.04510262060888517,Medium
+2023,26,204877.0,Malware_Attacks,Lucknow,Government,Medium,0.07373750839866071,Medium
+2023,19,56231.0,Ransomware,Lucknow,Government,Low,0.020238161603133055,Low
+2023,5,138440.0,Ransomware,Lucknow,Government,Medium,0.04982609401109245,Medium
+2023,25,126903.0,Phishing,Lucknow,Government,Medium,0.04567379953979822,Medium
+2023,10,290071.0,Ransomware,Lucknow,Government,High,0.10439977546873445,High
+2023,9,104101.0,Phishing,Lucknow,Government,Medium,0.03746710641901716,Medium
+2023,23,8729.0,Others,Lucknow,Government,Low,0.003141664075576611,Low
+2023,17,66776.0,Others,Lucknow,Government,Low,0.024033424253717926,Low
+2023,1,201623.0,Online Fraud,Lucknow,Government,Medium,0.07256635764806771,Medium
+2023,23,170623.0,Ransomware,Lucknow,Government,Medium,0.061409113250900225,Medium
+2023,12,60880.0,Online Fraud,Lucknow,Government,Low,0.021911388351598587,Low
+2023,14,137976.0,Malware_Attacks,Lucknow,Government,Medium,0.049659095256244526,Medium
+2023,28,286073.0,Ransomware,Lucknow,Government,High,0.10296085085260945,High
+2023,19,196702.0,Others,Lucknow,Government,Medium,0.07079523507779477,Medium
+2023,9,213380.0,Online Fraud,Lucknow,Government,Medium,0.07679783256347088,Medium
+2023,14,294461.0,Others,Lucknow,Government,High,0.10597978523981721,High
+2023,16,98700.0,Malware_Attacks,Lucknow,Government,Low,0.03552322651614291,Low
+2023,18,295933.0,Ransomware,Lucknow,Government,High,0.10650957439312789,High
+2023,9,165774.0,Others,Lucknow,Government,Medium,0.05966390428051748,Medium
+2023,12,213734.0,Online Fraud,Lucknow,Government,Medium,0.07692524109626434,Medium
+2023,28,67435.0,Online Fraud,Lucknow,Government,Low,0.024270605674935133,Low
+2023,15,89827.0,Phishing,Lucknow,Government,Low,0.03232973524078592,Low
+2023,7,271518.0,Ransomware,Lucknow,Government,High,0.0977223446525845,High
+2023,26,182438.0,Others,Lucknow,Government,Medium,0.0656614630106594,Medium
+2023,20,32290.0,Online Fraud,Lucknow,Government,Low,0.011621529728533482,Low
+2023,13,7773.0,Phishing,Lucknow,Government,Low,0.0027975890548123496,Low
+2023,27,81193.0,Ransomware,Lucknow,Government,Low,0.029222262720619976,Low
+2023,20,233263.0,Phishing,Lucknow,Government,Medium,0.08395394515537026,Medium
+2023,3,142935.0,Online Fraud,Lucknow,Government,Medium,0.05144389444868174,Medium
+2023,12,46963.0,Others,Lucknow,Government,Low,0.01690250543948956,Low
+2023,2,206497.0,Ransomware,Lucknow,Government,Medium,0.07432056439619011,Medium
+2023,20,278156.0,Malware_Attacks,Lucknow,Government,High,0.1001114345980167,High
+2024,23,35127.0,Online Fraud,Chennai,Social Media,Low,0.012642597546429098,Low
+2024,21,264191.0,Ransomware,Chennai,Social Media,High,0.09508527595264754,High
+2024,1,110752.0,Others,Chennai,Social Media,Medium,0.039860875208873964,Medium
+2024,10,107103.0,Phishing,Chennai,Social Media,Medium,0.03854755956999448,Medium
+2024,26,272674.0,Others,Chennai,Social Media,High,0.09813840189526599,High
+2024,23,126462.0,Others,Chennai,Social Media,Medium,0.04551507874047077,Medium
+2024,6,23906.0,Malware_Attacks,Chennai,Social Media,Low,0.008604034985764057,Low
+2024,8,5150.0,Online Fraud,Chennai,Social Media,Low,0.001853542214368146,Low
+2024,3,149670.0,Ransomware,Chennai,Social Media,Medium,0.05386789577174377,Medium
+2024,12,212168.0,Ransomware,Chennai,Social Media,Medium,0.07636162029865258,Medium
+2024,19,110020.0,Others,Chennai,Social Media,Medium,0.039597420276656976,Medium
+2024,1,40975.0,Phishing,Chennai,Social Media,Low,0.014747357715288307,Low
+2024,18,154156.0,Others,Chennai,Social Media,Medium,0.05548245700934677,Medium
+2024,19,187502.0,Malware_Attacks,Chennai,Social Media,Medium,0.06748405286960313,Medium
+2024,27,149969.0,Online Fraud,Chennai,Social Media,Medium,0.05397550919351,Medium
+2024,20,106987.0,Ransomware,Chennai,Social Media,Medium,0.03850580988128249,Medium
+2024,13,7438.0,Malware_Attacks,Chennai,Social Media,Low,0.0026770188331010233,Low
+2024,6,218455.0,Others,Chennai,Social Media,Medium,0.07862438144462007,Medium
+2024,4,297883.0,Phishing,Chennai,Social Media,High,0.10721140105682067,High
+2024,17,159272.0,Malware_Attacks,Chennai,Social Media,Medium,0.05732376224598901,Medium
+2024,4,274110.0,Malware_Attacks,Chennai,Social Media,High,0.09865523424863155,High
+2024,18,136146.0,Ransomware,Chennai,Social Media,Medium,0.049000457925702054,Medium
+2024,13,258561.0,Online Fraud,Chennai,Social Media,High,0.09305897640567809,High
+2024,25,183080.0,Ransomware,Chennai,Social Media,Medium,0.06589252594301362,Medium
+2024,22,246550.0,Others,Chennai,Social Media,Medium,0.08873608406844008,Medium
+2024,28,19339.0,Ransomware,Chennai,Social Media,Low,0.0069603209482845775,Low
+2024,4,140171.0,Phishing,Chennai,Social Media,Medium,0.0504491001417859,Medium
+2024,13,120543.0,Online Fraud,Chennai,Social Media,Medium,0.04338476488283095,Medium
+2024,26,170533.0,Ransomware,Chennai,Social Media,Medium,0.061376721251037485,Medium
+2024,12,275796.0,Others,Chennai,Social Media,High,0.09926204437939364,High
+2024,1,143071.0,Online Fraud,Chennai,Social Media,Medium,0.051492842359585435,Medium
+2024,10,53763.0,Ransomware,Chennai,Social Media,Low,0.019349900984674685,Low
+2024,22,184302.0,Phishing,Chennai,Social Media,Medium,0.06633233731892778,Medium
+2024,18,98577.0,Ransomware,Chennai,Social Media,Low,0.03547895744966383,Low
+2024,11,190355.0,Online Fraud,Chennai,Social Media,Medium,0.06851087926525212,Medium
+2024,19,146073.0,Online Fraud,Chennai,Social Media,Medium,0.05257329551056275,Medium
+2024,24,104702.0,Ransomware,Chennai,Social Media,Medium,0.03768341299587837,Medium
+2024,24,109682.0,Online Fraud,Chennai,Social Media,Medium,0.03947577032161689,Medium
+2024,24,131907.0,Malware_Attacks,Chennai,Social Media,Medium,0.0474747947321668,Medium
+2024,7,125170.0,Online Fraud,Chennai,Social Media,Medium,0.0450500735868856,Medium
